@@ -1,0 +1,35 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+A level-1 auxiliary file: data/chap1.aux
+A level-1 auxiliary file: data/chap02.aux
+A level-1 auxiliary file: data/chap021.aux
+A level-1 auxiliary file: data/chap022.aux
+A level-1 auxiliary file: data/chap3.aux
+The style file: bnubib.bst
+A level-1 auxiliary file: data/ack.aux
+Database file #1: ref/refs.bib
+I was expecting a `,' or a `}'---line 94 of file ref/refs.bib
+ : 
+ : @inproceedings{Weikum2010FromIT,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty journal in Dong
+Too many commas in name 2 of "Denny Vrandecic and Markus Kr{\"{o}tzsch}, journal={Commun. ACM}, year={2014}, volume={57}, pages={78-85}" for entry Vrandecic2014WikidataAF
+while executing---line 1140 of file bnubib.bst
+Too many commas in name 2 of "Denny Vrandecic and Markus Kr{\"{o}tzsch}, journal={Commun. ACM}, year={2014}, volume={57}, pages={78-85}" for entry Vrandecic2014WikidataAF
+while executing---line 1140 of file bnubib.bst
+Too many commas in name 2 of "Denny Vrandecic and Markus Kr{\"{o}tzsch}, journal={Commun. ACM}, year={2014}, volume={57}, pages={78-85}" for entry Vrandecic2014WikidataAF
+while executing---line 1140 of file bnubib.bst
+Too many commas in name 2 of "Denny Vrandecic and Markus Kr{\"{o}tzsch}, journal={Commun. ACM}, year={2014}, volume={57}, pages={78-85}" for entry Vrandecic2014WikidataAF
+while executing---line 1140 of file bnubib.bst
+Warning--empty journal in Vrandecic2014WikidataAF
+Warning--empty booktitle in HERMJAKOB2000KnowledgeBasedQA
+Warning--empty booktitle in KeySun2016OpenKB
+Warning--there's a publisher but no address in NIPS2013_5071
+Warning--there's a number but no volume in Gardner2015
+Warning--empty author in 2009EmbeddingLS
+Warning--empty booktitle in 2009EmbeddingLS
+Warning--empty journal in Dong2014
+Warning--empty booktitle in PAZZANI1991DetectingAC
+Warning--empty journal in West2014
+Warning--empty booktitle in Lovsz1993RandomWO
+(There were 5 error messages)
