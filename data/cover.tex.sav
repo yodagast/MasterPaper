@@ -1,0 +1,64 @@
+% !Mode:: "TeX:UTF-8"
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
+%\secretlevel{绝密} \secretyear{10}
+
+\ctitle{基于符号逻辑的知识图谱补全算法研究}
+%\makeatletter
+%\cdegree{博士}
+
+\makeatother
+
+\cauthor{黄勇}
+\csupervisor{王志春\;副教授 \\ \hspace*{6em}}
+\cdepartment[]{计算机软件与理论}
+\cmajor{知识工程}
+\cnum{201521210022}
+\cdate{\the\year  年 \the\month 月}
+
+\etitle{Knowledge Base Completion by Symbolic methods}
+
+% 定义中英文摘要和关键字
+\begin{cabstract}
+  知识库补全基于现有知识库数据，预测知识库中实体对之间新的关系。当前有许多知识库补全算法，
+  其中效果较好的一种基于逻辑符号的知识库补全算法是路径排序算法（PRA）。路径排序算法基于
+  实体之间的关系路径特征，构建逻辑回归分类模型，进行知识库中实体对之间关系预测。本研究
+  基于路径排序算法，在传统的关系路径特征基础上，抽取实体属性特征，极大的丰富了关系预测的
+  属性特征。其次，本论文
+  本文的创新点主要有：
+  \begin{itemize}[$\bullet$]
+    \item 用例子来解释模板的使用方法；
+    \item 用废话来填充无关紧要的部分；
+    \item 一边学习摸索一边编写新代码。
+  \end{itemize}
+
+  关键词是为了文献标引工作、用以表示全文主要内容信息的单词或术语。关键词不超过 5
+  个，每个关键词中间用分号分隔。（模板作者注：关键词分隔符不用考虑，模板会自动处
+  理。英文关键词同理。）
+\end{cabstract}
+
+\ckeywords{\TeX, \LaTeX, CJK, 模板, 论文}
+
+\begin{eabstract}
+   An abstract of a dissertation is a summary and extraction of research work
+   and contributions. Included in an abstract should be description of research
+   topic and research objective, brief introduction to methodology and research
+   process, and summarization of conclusion and contributions of the
+   research. An abstract should be characterized by independence and clarity and
+   carry identical information with the dissertation. It should be such that the
+   general idea and major contributions of the dissertation are conveyed without
+   reading the dissertation.
+
+   An abstract should be concise and to the point. It is a misunderstanding to
+   make an abstract an outline of the dissertation and words ``the first
+   chapter'', ``the second chapter'' and the like should be avoided in the
+   abstract.
+
+   Key words are terms used in a dissertation for indexing, reflecting core
+   information of the dissertation. An abstract may contain a maximum of 5 key
+   words, with semi-colons used in between to separate one another.
+\end{eabstract}
+
+\ekeywords{\TeX, \LaTeX, CJK, template, thesis}
