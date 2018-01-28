@@ -6,3 +6,7 @@
 *.bak
 *.toc
 *.thm
+*.lot
+*.bbl
+*.sty
+
