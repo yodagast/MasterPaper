@@ -21,15 +21,15 @@
 \contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 关系和属性特征计算}{12}{chapter.4}
 \contentsline {section}{\numberline {4.1}关系路径特征计算}{12}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}关系路径类型集合}{12}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}关系路径类型值计算}{13}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.2}关系路径特征向量}{13}{subsection.4.1.2}
 \contentsline {section}{\numberline {4.2}实体属性特征计算}{13}{section.4.2}
-\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{14}{chapter.5}
-\contentsline {section}{\numberline {5.1}逻辑回归分类模型}{14}{section.5.1}
-\contentsline {section}{\numberline {5.2}基于学习排序梯度下降树模型}{15}{section.5.2}
-\contentsline {chapter}{第\nobreakspace {}6\nobreakspace {}章\hspace {1em} 基于逻辑符号的知识库补全实验}{16}{chapter.6}
-\contentsline {section}{\numberline {6.1}YAGO知识库}{16}{section.6.1}
-\contentsline {section}{\numberline {6.2}关系路径特征和属性事实特征结合}{17}{section.6.2}
-\contentsline {section}{\numberline {6.3}基于学习排序的知识库补全}{19}{section.6.3}
-\contentsline {chapter}{参考文献}{20}{section*.28}
-\contentsline {chapter}{附录\nobreakspace {} 1\hspace {1em} 其它附录}{23}{appendix.A}
-\contentsline {chapter}{致谢}{24}{section*.33}
+\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{15}{chapter.5}
+\contentsline {section}{\numberline {5.1}逻辑回归分类模型}{15}{section.5.1}
+\contentsline {section}{\numberline {5.2}基于学习排序梯度下降树模型}{16}{section.5.2}
+\contentsline {chapter}{第\nobreakspace {}6\nobreakspace {}章\hspace {1em} 基于逻辑符号的知识库补全实验}{17}{chapter.6}
+\contentsline {section}{\numberline {6.1}YAGO知识库}{17}{section.6.1}
+\contentsline {section}{\numberline {6.2}关系路径特征和属性事实特征结合}{18}{section.6.2}
+\contentsline {section}{\numberline {6.3}基于学习排序的知识库补全}{20}{section.6.3}
+\contentsline {chapter}{参考文献}{21}{section*.28}
+\contentsline {chapter}{附录\nobreakspace {} 1\hspace {1em} 其它附录}{24}{appendix.A}
+\contentsline {chapter}{致谢}{25}{section*.33}

@@ -5,7 +5,7 @@
 %%% End:
 %\secretlevel{绝密} \secretyear{10}
 
-\ctitle{基于符号逻辑的知识图谱补全算法研究}
+\ctitle{基于关系路径的知识库补全算法技术研究}
 %\makeatletter
 %\cdegree{博士}
 
@@ -37,9 +37,9 @@
   \end{itemize}
 \end{cabstract}
 
-\ckeywords{知识库补全,路径排序算法, 学习排序，符号逻辑}
+\keywords{知识库补全,路径排序算法, 学习排序，符号逻辑}
 
-\begin{eabstract}
+\begin{abstract}
 Knowledge base (KB) completion aims to predict new facts
 from the existing ones in KBs. There are many KB completion approaches,
 one of the state-of-art approaches is Path Ranking Algorithm

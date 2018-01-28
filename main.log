@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  1 JAN 2018 19:15
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  28 JAN 2018 22:05
 entering extended mode
-**E:/研究生毕业论文/毕业论文/main.tex
-(E:/研究生毕业论文/毕业论文/main.tex
+**E:/研究生毕业论文/masterPaper/main.tex
+(E:/研究生毕业论文/masterPaper/main.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for loaded.
-(E:\研究生毕业论文\毕业论文\bnuthesis.cls
+(E:\研究生毕业论文\masterPaper\bnuthesis.cls
 Document Class: bnuthesis 2015/9/20 1.53 Beijing Normal University Thesis Templ
 ate
 (D:\CTEX\MiKTeX\tex\latex\base\book.cls
@@ -579,7 +579,7 @@ Package: CJKnumb 2008/12/29 4.8.2
 (D:\CTEX\MiKTeX\tex\latex\cjk\CJKspace.sty
 Package: CJKspace 2008/12/29 3.8.0
 )
-(E:\研究生毕业论文\毕业论文\ccmap.sty
+(E:\研究生毕业论文\masterPaper\ccmap.sty
 Package: ccmap 2006/11/18
 
 
@@ -824,7 +824,7 @@ Package hyperref Warning: Option `pdfpagelabels' has already been used,
 \c@pcabs@footnote=\count136
 \c@bnu@bookmark=\count137
 \bnu@title@width=\skip73
-) (E:\研究生毕业论文\毕业论文\bnuthesis.cfg
+) (E:\研究生毕业论文\masterPaper\bnuthesis.cfg
 File: bnuthesis.cfg 2015/09/20 1.53 Beijing Normal University Thesis Template
 \c@currproofctr=\count138
 \c@endproofctr=\count139
@@ -866,7 +866,7 @@ File: bnuthesis.cfg 2015/09/20 1.53 Beijing Normal University Thesis Template
 \c@endconjecturectr=\count175
 \c@conjecture=\count176
 )
-(E:\研究生毕业论文\毕业论文\bnutils.sty
+(E:\研究生毕业论文\masterPaper\bnutils.sty
 Package: bnutils 2015/09/20 1.53 put any packages you would like to use here
 
 (D:\CTEX\MiKTeX\tex\latex\chngcntr\chngcntr.sty
@@ -923,10 +923,11 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(E:\研究生毕业论文\毕业论文\main.aux (E:\研究生毕业论文\毕业论文\data/chap1.aux
-) (E:\研究生毕业论文\毕业论文\data/chap02.aux)
-(E:\研究生毕业论文\毕业论文\data/chap021.aux)
-(E:\研究生毕业论文\毕业论文\data/chap022.aux
+(E:\研究生毕业论文\masterPaper\main.aux
+(E:\研究生毕业论文\masterPaper\data/chap1.aux)
+(E:\研究生毕业论文\masterPaper\data/chap02.aux)
+(E:\研究生毕业论文\masterPaper\data/chap021.aux)
+(E:\研究生毕业论文\masterPaper\data/chap022.aux
 
 LaTeX Warning: Label `sec:literal' multiply defined.
 
@@ -939,8 +940,8 @@ LaTeX Warning: Label `sec:relational' multiply defined.
 
 LaTeX Warning: Label `sec:literal' multiply defined.
 
-) (E:\研究生毕业论文\毕业论文\data/chap3.aux)
-(E:\研究生毕业论文\毕业论文\data/ack.aux))
+) (E:\研究生毕业论文\masterPaper\data/chap3.aux)
+(E:\研究生毕业论文\masterPaper\data/ack.aux))
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 16.
 LaTeX Font Info:    Try loading font information for OML+txmi on input line 16.
 
@@ -1090,7 +1091,8 @@ LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
 
-(E:\研究生毕业论文\毕业论文\main.out) (E:\研究生毕业论文\毕业论文\main.out)
+(E:\研究生毕业论文\masterPaper\main.out)
+(E:\研究生毕业论文\masterPaper\main.out)
 \@outlinefile=\write3
 
 (D:\CTEX\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
@@ -1111,7 +1113,7 @@ File: c70song.fd 2009/09/23 4.8.2
 
 LaTeX Warning: File c7030.cmap not found on input line 16.
 
-(E:\研究生毕业论文\毕业论文\data/cover.tex)
+(E:\研究生毕业论文\masterPaper\data/cover.tex)
 <figures/BNU_name.pdf, id=153, 461.725pt x 124.465pt>
 File: figures/BNU_name.pdf Graphic file (type pdf)
 
@@ -1150,34 +1152,37 @@ LaTeX Warning: File c7057.cmap not found on input line 23.
 LaTeX Warning: File c704e.cmap not found on input line 23.
 
 
-LaTeX Warning: File c707b.cmap not found on input line 23.
+LaTeX Warning: File c7051.cmap not found on input line 23.
 
 
-LaTeX Warning: File c7053.cmap not found on input line 23.
+LaTeX Warning: File c707c.cmap not found on input line 23.
 
 
-LaTeX Warning: File c7090.cmap not found on input line 23.
+LaTeX Warning: File c708d.cmap not found on input line 23.
 
 
-LaTeX Warning: File c708f.cmap not found on input line 23.
+LaTeX Warning: File c705f.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7077.cmap not found on input line 23.
 
 
-LaTeX Warning: File c7056.cmap not found on input line 23.
-
-
-LaTeX Warning: File c708c.cmap not found on input line 23.
+LaTeX Warning: File c705e.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7088.cmap not found on input line 23.
 
 
-LaTeX Warning: File c7051.cmap not found on input line 23.
+LaTeX Warning: File c707b.cmap not found on input line 23.
 
 
 LaTeX Warning: File c706c.cmap not found on input line 23.
+
+
+LaTeX Warning: File c7062.cmap not found on input line 23.
+
+
+LaTeX Warning: File c7067.cmap not found on input line 23.
 
 
 LaTeX Warning: File c707a.cmap not found on input line 23.
@@ -1192,13 +1197,7 @@ LaTeX Warning: File c709e.cmap not found on input line 23.
 LaTeX Warning: File c7052.cmap not found on input line 23.
 
 
-LaTeX Warning: File c705e.cmap not found on input line 23.
-
-
 LaTeX Warning: File c7073.cmap not found on input line 23.
-
-
-LaTeX Warning: File c705f.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7066.cmap not found on input line 23.
@@ -1207,25 +1206,22 @@ LaTeX Warning: File c7066.cmap not found on input line 23.
 LaTeX Warning: File c7063.cmap not found on input line 23.
 
 
-LaTeX Warning: File c707c.cmap not found on input line 23.
-
-
 LaTeX Warning: File c707e.cmap not found on input line 23.
 
 
-LaTeX Warning: File c7067.cmap not found on input line 23.
+LaTeX Warning: File c708f.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7074.cmap not found on input line 23.
+
+
+LaTeX Warning: File c7053.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7079.cmap not found on input line 23.
 
 
 LaTeX Warning: File c705d.cmap not found on input line 23.
-
-
-LaTeX Warning: File c7062.cmap not found on input line 23.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
@@ -1256,9 +1252,12 @@ Non-PDF special ignored!
 
 
 {D:/CTEX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK.sfd}} <E:/研究生毕
-业论文/毕业论文/figures/BNU_name.pdf>]
+业论文/masterPaper/figures/BNU_name.pdf>]
 
 LaTeX Warning: File c7060.cmap not found on input line 23.
+
+
+LaTeX Warning: File c7090.cmap not found on input line 23.
 
 
 LaTeX Warning: File c7091.cmap not found on input line 23.
@@ -1279,9 +1278,6 @@ LaTeX Warning: File c7050.cmap not found on input line 23.
 LaTeX Warning: File c7089.cmap not found on input line 23.
 
 
-LaTeX Warning: File c708d.cmap not found on input line 23.
-
-
 LaTeX Warning: File c7068.cmap not found on input line 23.
 
 
@@ -1292,6 +1288,9 @@ LaTeX Warning: File c7095.cmap not found on input line 23.
 
 
 LaTeX Warning: File c705c.cmap not found on input line 23.
+
+
+LaTeX Warning: File c7056.cmap not found on input line 23.
 
 
 LaTeX Warning: File c707f.cmap not found on input line 23.
@@ -1372,7 +1371,7 @@ l.26 \tableofcontents
 
 
 
-] (E:\研究生毕业论文\毕业论文\main.toc
+] (E:\研究生毕业论文\masterPaper\main.toc
 
 LaTeX Warning: File c709a.cmap not found on input line 29.
 
@@ -1384,9 +1383,12 @@ LaTeX Warning: File c709a.cmap not found on input line 29.
 
 LaTeX Warning: File c7081.cmap not found on input line 35.
 
+
+LaTeX Warning: File c708c.cmap not found on input line 35.
+
 )
 \tf@toc=\write4
- [4] (E:\研究生毕业论文\毕业论文\data/chap1.tex
+ [4] (E:\研究生毕业论文\masterPaper\data/chap1.tex
 
 LaTeX Warning: File c706e.cmap not found on input line 11.
 
@@ -1419,7 +1421,7 @@ LaTeX Warning: File c7071.cmap not found on input line 26.
 
 LaTeX Warning: File c708a.cmap not found on input line 26.
 
-<figures/kb.png, id=418, 424.08438pt x 175.15437pt>
+<figures/kb.png, id=417, 424.08438pt x 175.15437pt>
 File: figures/kb.png Graphic file (type png)
  <use figures/kb.png>
 Underfull \vbox (badness 1215) has occurred while \output is active []
@@ -1445,7 +1447,7 @@ LaTeX Warning: File ot162.cmap not found on input line 65.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <E:/研究生毕业论文/毕业论文/figures/kb.png>]
+ [2 <E:/研究生毕业论文/masterPaper/figures/kb.png>]
 
 LaTeX Warning: File c7094.cmap not found on input line 77.
 
@@ -1482,7 +1484,7 @@ LaTeX Warning: File c7069.cmap not found on input line 175.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
-(E:\研究生毕业论文\毕业论文\data/chap02.tex
+(E:\研究生毕业论文\masterPaper\data/chap02.tex
 <figures/frame.png, id=566, 735.49782pt x 472.01344pt>
 File: figures/frame.png Graphic file (type png)
  <use figures/frame.png>
@@ -1491,7 +1493,7 @@ File: figures/frame.png Graphic file (type png)
 
 
 
- <E:/研究生毕业论文/毕业论文/figures/frame.png>]
+ <E:/研究生毕业论文/masterPaper/figures/frame.png>]
 
 LaTeX Warning: File c709f.cmap not found on input line 47.
 
@@ -1509,7 +1511,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-(E:\研究生毕业论文\毕业论文\data/chap021.tex [12
+(E:\研究生毕业论文\masterPaper\data/chap021.tex [12
 
 
 
@@ -1518,7 +1520,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-(E:\研究生毕业论文\毕业论文\data/chap022.tex [14
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14]
+(E:\研究生毕业论文\masterPaper\data/chap022.tex [15
 
 
 
@@ -1526,8 +1531,8 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
-(E:\研究生毕业论文\毕业论文\data/chap3.tex [16
+ [16]
+(E:\研究生毕业论文\masterPaper\data/chap3.tex [17
 
 
 
@@ -1549,20 +1554,20 @@ Underfull \vbox (badness 7012) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18])
+ [19])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-(E:\研究生毕业论文\毕业论文\main.bbl
+ [20]
+(E:\研究生毕业论文\masterPaper\main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 49--52
 []\OT1/txr/m/n/12.045 Denny Vran-de-ci-c, year=2014 vol-ume=57 pages=78-85 Mark
 us Kr[]otzsch, jour-
  []
 
-[20
+[21
 
 
 
@@ -1570,20 +1575,20 @@ us Kr[]otzsch, jour-
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21])
-(E:\研究生毕业论文\毕业论文\data/appendix01.tex
+ [22])
+(E:\研究生毕业论文\masterPaper\data/appendix01.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [23]
 LaTeX Font Info:    Try loading font information for OT1+txtt on input line 9.
 
 (D:\CTEX\MiKTeX\tex\latex\txfonts\ot1txtt.fd
 File: ot1txtt.fd 2000/12/15 v3.1
-)) [23
+)) [24
 
 
 ]
-(E:\研究生毕业论文\毕业论文\data/ack.tex
+(E:\研究生毕业论文\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
 
@@ -1593,7 +1598,7 @@ LaTeX Warning: File c709c.cmap not found on input line 15.
 LaTeX Font Info:    Try loading font information for C70+kai on input line 21.
 (D:\CTEX\CTeX\tex\latex\CJK\UTF8\c70kai.fd
 File: c70kai.fd 2009/09/23 4.8.2
-)) [24
+)) [25
 
 
 
@@ -1603,28 +1608,29 @@ File: c70kai.fd 2009/09/23 4.8.2
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
 
-(E:\研究生毕业论文\毕业论文\main.aux (E:\研究生毕业论文\毕业论文\data/chap1.aux
-) (E:\研究生毕业论文\毕业论文\data/chap02.aux)
-(E:\研究生毕业论文\毕业论文\data/chap021.aux)
-(E:\研究生毕业论文\毕业论文\data/chap022.aux)
-(E:\研究生毕业论文\毕业论文\data/chap3.aux)
-(E:\研究生毕业论文\毕业论文\data/ack.aux))
+(E:\研究生毕业论文\masterPaper\main.aux
+(E:\研究生毕业论文\masterPaper\data/chap1.aux)
+(E:\研究生毕业论文\masterPaper\data/chap02.aux)
+(E:\研究生毕业论文\masterPaper\data/chap021.aux)
+(E:\研究生毕业论文\masterPaper\data/chap022.aux)
+(E:\研究生毕业论文\masterPaper\data/chap3.aux)
+(E:\研究生毕业论文\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: CDB56D392E8AF732D104D770AC37EFF5;5245.
+(rerunfilecheck)             Checksum: D0A83C6ACBE02A52B7B2FB7C1743E479;5245.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15586 strings out of 495362
- 215158 string characters out of 3184024
- 314988 words of memory out of 3000000
- 17527 multiletter control sequences out of 15000+200000
- 162248 words of font info for 475 fonts, out of 3000000 for 9000
+ 15594 strings out of 495362
+ 215492 string characters out of 3184024
+ 315031 words of memory out of 3000000
+ 17531 multiletter control sequences out of 15000+200000
+ 163411 words of font info for 479 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,13n,44p,548b,1933s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,44p,551b,1933s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
 imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
 /Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
@@ -1640,38 +1646,61 @@ tf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/
 simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Window
 s/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><D:/CTEX/CTeX/fonts/truetype/ch
 inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fo
-nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chines
-e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/font
-s/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
-mhei.ttf><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/
-8r.enc}<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei
-.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
-CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
-/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/F
-onts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
-onts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
-f><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
-<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/ch
-inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
-fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
-tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/
-simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Window
-s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
-:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhe
-i.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
-ts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
-dows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf
+nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CT
+EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
+simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/si
+mhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiK
+TeX/fonts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/truetype/chinese/simsun
+.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
+tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype
+/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows
+/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chi
+nese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chine
+se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fon
+ts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts
+/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D
+:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chin
+ese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fo
+nts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
 ><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
 mhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/
 Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/
 Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.
 ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts
 /simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
-ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/c
+ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
+C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
+ei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fo
+nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
+ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
+imhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
+/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chi
+nese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
+onts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts
+/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D
+:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chin
+ese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fo
+nts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
+><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/c
 hinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX
 /fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.
-ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fon
+ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
+e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
+TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
+un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/true
+type/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Win
+dows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.
+ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fon
+ts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/
+Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><D:/CTEX/CTeX/fonts/tru
+etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
+EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
+simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
+truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
+/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
+se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fon
 ts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/ch
 inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
@@ -1683,43 +1712,20 @@ n.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truet
 ype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX
 /CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/si
 msun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tr
-uetype/chinese/simsun.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfa
-ng.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/
-Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><
-C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/si
-mfang.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
-CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
-e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/font
-s/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><
-D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chi
-nese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
-onts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
-f><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/
-chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTe
-X/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun
-.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
-CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
-sun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tru
-etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
-EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
-simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
-truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
-/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fon
-ts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
-<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/MiKTeX/fonts/type1/pub
-lic/txfonts/rtxmi.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><D:/C
-TEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb><D:/CTEX/MiKTeX/fonts/type1/publ
-ic/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CT
-EX/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/h
-elvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/Mi
-KTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utm
-ri8a.pfb>
-Output written on main.pdf (30 pages, 909046 bytes).
+uetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/C
+TEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese
+/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts
+/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D
+:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><D:/CTEX/MiKTeX/fonts/type1/
+public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb><D:
+/CTEX/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/pu
+blic/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txtt.pfb><D:/
+CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw
+/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiK
+TeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (31 pages, 912614 bytes).
 PDF statistics:
- 1320 PDF objects out of 1440 (max. 8388607)
- 143 named destinations out of 1000 (max. 500000)
+ 1329 PDF objects out of 1440 (max. 8388607)
+ 144 named destinations out of 1000 (max. 500000)
  648 words of extra memory for PDF output out of 10000 (max. 10000000)
 
