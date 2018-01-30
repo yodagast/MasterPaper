@@ -5,7 +5,13 @@
 %%% End:
 %\secretlevel{绝密} \secretyear{10}
 
+
 \ctitle{基于关系路径的知识库补全算法技术研究}
+%\makeatletter
+%\cdegree{博士}
+
+\makeatother
+
 %\makeatletter
 %\cdegree{博士}
 
@@ -21,7 +27,7 @@
 \etitle{Knowledge Base Completion by Symbolic methods}
 
 % 定义中英文摘要和关键字
-\begin{abstract}
+\begin{cabstract}
   知识库补全基于现有知识库数据，预测知识库中实体对之间新的关系。当前有许多知识库补全算法，
   其中效果较好的一种基于逻辑符号的知识库补全算法是路径排序算法（PRA）。路径排序算法基于
   实体之间的关系路径特征，构建逻辑回归分类模型，进行知识库中实体对之间关系预测。本研究
@@ -37,9 +43,9 @@
   \end{itemize}
 \end{cabstract}
 
-\keywords{知识库补全,路径排序算法, 学习排序，符号逻辑}
+\ckeywords{知识库补全,路径排序算法, 学习排序，符号逻辑}
 
-\begin{abstract}
+\begin{eabstract}
 Knowledge base (KB) completion aims to predict new facts
 from the existing ones in KBs. There are many KB completion approaches,
 one of the state-of-art approaches is Path Ranking Algorithm

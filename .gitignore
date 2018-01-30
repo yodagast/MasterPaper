@@ -10,3 +10,10 @@
 *.bbl
 *.sty
 
+*.log
+*.bak
+*.aux
+*.aux
+*.log
+*.gz
+*.toc

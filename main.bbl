@@ -17,13 +17,11 @@ Fabian~M. Suchanek, Gjergji Kasneci, Gerhard Weikum.
   World Wide Web, New York, NY, USA: ACM, 2007.
 \newblock  697--706.
 
-\bibitem{Bollacker:2008:FCC:1376616.1376746}
-Kurt Bollacker, Colin Evans, Praveen Paritosh, et~al.
-\newblock Freebase: A Collaboratively Created Graph Database for Structuring
-  Human Knowledge[C].
-\newblock Proceedings of Proceedings of the 2008 ACM SIGMOD International
-  Conference on Management of Data, New York, NY, USA: ACM, 2008.
-\newblock  1247--1250.
+\bibitem{Bollacker2008FreebaseAC}
+Kurt~D. Bollacker, Colin Evans, Praveen Paritosh, et~al.
+\newblock Freebase: a collaboratively created graph database for structuring
+  human knowledge[C].
+\newblock Proceedings of SIGMOD Conference, 2008.
 
 \bibitem{Bizer:2009:DCP:1640541.1640848}
 Christian Bizer, Jens Lehmann, Georgi Kobilarov, et~al.
@@ -46,9 +44,58 @@ Gerhard Weikum, Martin Theobald.
 \newblock Proceedings of PODS, 2010.
 
 \bibitem{Vrandecic2014WikidataAF}
-Denny Vrandecic, year={2014} volume={57}~pages={78-85} Markus~Kr{\"{o}tzsch},
+Denny Vrandecic, year={2014} Markus~Kr{\"{o}tzsch},
   journal={Commun. ACM}.
 \newblock Wikidata: a free collaborative knowledgebase[J].
+
+\bibitem{Kasneci2008TheYA}
+Gjergji Kasneci, Maya Ramanath, Fabian~M. Suchanek, et~al.
+\newblock The YAGO-NAGA approach to knowledge discovery[J].
+\newblock SIGMOD Record, 2008, 37:41--47.
+
+\bibitem{Suchanek2008YAGOAL}
+Fabian~M. Suchanek, Gjergji Kasneci, Gerhard Weikum.
+\newblock YAGO: A Large Ontology from Wikipedia and WordNet[J].
+\newblock J. Web Sem., 2008, 6:203--217.
+
+\bibitem{Hoffart2011YAGO2EA}
+Johannes Hoffart, Fabian~M. Suchanek, Klaus Berberich, et~al.
+\newblock YAGO2: exploring and querying world knowledge in time, space,
+  context, and many languages[C].
+\newblock Proceedings of WWW, 2011.
+
+\bibitem{Ferrucci2010BuildingWA}
+David~A. Ferrucci, Eric~W. Brown, Jennifer Chu-Carroll, et~al.
+\newblock Building Watson: An Overview of the DeepQA Project[J].
+\newblock AI Magazine, 2010, 31:59--79.
+
+\bibitem{Hoffart2013YAGO2AS}
+Johannes Hoffart, Fabian~M. Suchanek, Klaus Berberich, et~al.
+\newblock YAGO2: A spatially and temporally enhanced knowledge base from
+  Wikipedia[J].
+\newblock Artif. Intell., 2013, 194:28--61.
+
+\bibitem{Yao2014InformationEO}
+Xuchen Yao, Benjamin~Van Durme.
+\newblock Information Extraction over Structured Data: Question Answering with
+  Freebase[C].
+\newblock Proceedings of ACL, 2014.
+
+\bibitem{Yao2015LeanQA}
+Xuchen Yao.
+\newblock Lean Question Answering over Freebase from Scratch[C].
+\newblock Proceedings of HLT-NAACL, 2015.
+
+\bibitem{Yao2014FreebaseQI}
+Xuchen Yao, Jonathan Berant, Benjamin~Van Durme.
+\newblock Freebase QA: Information Extraction or Semantic Parsing?[C].
+\newblock 2014.
+
+\bibitem{Zheng2012EntityDW}
+Zhicheng Zheng, Xiance Si, Fangtao Li, et~al.
+\newblock Entity Disambiguation with Freebase[J].
+\newblock 2012 IEEE/WIC/ACM International Conferences on Web Intelligence and
+  Intelligent Agent Technology, 2012, 1:82--89.
 
 \bibitem{Dong2014KnowledgeVA}
 Xin Dong, Evgeniy Gabrilovich, Geremy Heitz, et~al.
@@ -240,20 +287,5 @@ Robert West, Evgeniy Gabrilovich, Kevin Murphy, et~al.
 L{\'a}szl{\'o} Lov{\'a}sz.
 \newblock Random Walks on Graphs: A Survey[C].
 \newblock 1993.
-
-\bibitem{Kasneci2008TheYA}
-Gjergji Kasneci, Maya Ramanath, Fabian~M. Suchanek, et~al.
-\newblock The YAGO-NAGA approach to knowledge discovery[J].
-\newblock SIGMOD Record, 2008, 37:41--47.
-
-\bibitem{Suchanek2008YAGOAL}
-Fabian~M. Suchanek, Gjergji Kasneci, Gerhard Weikum.
-\newblock YAGO: A Large Ontology from Wikipedia and WordNet[J].
-\newblock J. Web Sem., 2008, 6:203--217.
-
-\bibitem{Ferrucci2010BuildingWA}
-David~A. Ferrucci, Eric~W. Brown, Jennifer Chu-Carroll, et~al.
-\newblock Building Watson: An Overview of the DeepQA Project[J].
-\newblock AI Magazine, 2010, 31:59--79.
 
 \end{thebibliography}
