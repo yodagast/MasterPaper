@@ -19,31 +19,31 @@
 
 \cauthor{黄勇}
 \csupervisor{王志春\;副教授 \\ \hspace*{6em}}
-\cdepartment[]{计算机软件与理论}
+\cdepartment[]{计算机软件与理论} 
 \cmajor{知识工程}
 \cnum{201521210022}
 \cdate{\the\year  年 \the\month 月}
 
-\etitle{Knowledge Base Completion by Symbolic methods}
+\etitle{Knowledge Base Completion by relational path methods}
 
 % 定义中英文摘要和关键字
 \begin{cabstract}
-  知识库补全基于现有知识库数据，预测知识库中实体对之间新的关系。当前有许多知识库补全算法，
-  其中效果较好的一种基于逻辑符号的知识库补全算法是路径排序算法（PRA）。路径排序算法基于
-  实体之间的关系路径特征，构建逻辑回归分类模型，进行知识库中实体对之间关系预测。本研究
-  基于路径排序算法，在传统的关系路径特征基础上，抽取关系路径特征和实体属性特征，将这两种不同类型的
-  路径特征进行组合，极大的丰富了关系预测的属性特征。
-  其次考虑到知识库补全中正负例不平衡问题，为了获得更好的模型预测结果，在传统逻辑回归模型的基础上，  本论文研究了基于学习排序算法的路径补全模型，通过学习排序算法的损失函数，进行知识库关系补全预测。
+  知识库补全基于现有知识库的三元组，预测知识库中实体和实体之间的关系。当前的知识库补全算法主要包括基于符号逻辑的知识库补全算法和基于表示学习的知识库补全算法，
+  其中效果显著的一种符号逻辑的知识库补全算法是路径排序算法。路径排序算法抽取
+  实体之间的关系路径特征，构建逻辑回归分类模型，对知识库中实体和实体之间关系进行预测。然而仅仅基于关系路径进行知识库补全，并没有结合实体和实体之间的属性特征关系，一些知识库进行知识库补全构建的正负实例对比例悬殊，进行模型训练很难抽取有效的路径特征，也难以进行模型训练。
+
+  本研究基于路径排序算法，在传统的关系路径特征基础上，提出了一种新的结合不同关系路径特征和不同类型实体属性特征，并将多种不同类型的关系路径特征、实体属性特征进行组合，极大的丰富了关系预测的特征，显著提升了知识库补全效果。
+  其次考虑到知识库补全中正负例不平衡问题，为了获得更好的模型预测结果，在传统逻辑回归模型的基础上，本论文研究了基于学习排序算法的路径补全模型，通过学习基于排序的损失函数，学习正负实体对的排序，从而进行知识库关系补全预测。
   本毕业论文的研究创新点主要有：
   \begin{itemize}[$\bullet$]
-    \item 抽取关系路径和实体属性作为知识库补全的特征，将两种不同类型特征进行组合，极大增强了知识库补全系统的特征维度。
-    \item 基于学习排序算法预测知识库补全中实体对的关系，通过直接学习知识库补全模型中的排序损失函数进行模型预测。
+    \item 抽取关系路径和实体属性作为知识库补全的特征，将两种不同类型特征进行组合，极大拓展了知识库补全系统的维度，增强了知识库补全效果。
+    \item 基于学习排序算法预测知识库补全中实体和实体的关系，通过直接学习知识库补全中的实体对排序顺序，改进损失函数进行模型预测。
     \item
-        构建了基于逻辑回归排序、树方法排序，基于深度神经网络排序算法的知识库补全模型，可以利用不同知识库数据特征选择合适的排序算法模型。
+        构建了基于逻辑回归排序、树方法排序以及基于深度神经网络排序算法的知识库补全模型，可以利用不同知识库数据特征选择合适的排序算法模型。
   \end{itemize}
 \end{cabstract}
 
-\ckeywords{知识库补全,路径排序算法, 学习排序，符号逻辑}
+\ckeywords{知识库补全,路径排序算法, 学习排序，符号逻辑、关系路径}
 
 \begin{eabstract}
 Knowledge base (KB) completion aims to predict new facts
@@ -53,19 +53,18 @@ one of the state-of-art approaches is Path Ranking Algorithm
 PRA takes the relation prediction as a classification problem, and
 logistic regression or SVM is used as the classification model. In this paper, we
 consider the relation prediction as a ranking problem, learning to rank
-model is trained on relations to predict new facts. Besides, our learning to rank model
-use both literal and relational facts as feature matrix.
-We propose to extract literal features from
+model is trained on relations to predict new facts. Besides, our model
+use both literal and relational facts as feature matrix， which is much more comprehensive. We propose to extract literal features from
 literal facts, and incorporate them with path-based
 features extracted from relational facts; predictive
 model is then trained to infer new
-facts with much more comprehensive features and bring higher precision scores. Experiments on YAGO show that our proposed approach outperforms approaches using
+facts with assembly features and bring higher precision scores in classification metrics and other ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using
 relational features and classification models.
-This paper has three main contribution:
+This paper has three main contribution, including:
 \begin{itemize}[$\bullet$]
-    \item KB completion feature type is much more comprehensive, we use both literal and relational facts to generate feature matrix.
-    \item KB completion was considered as a ranking method, we use state-of-art method such as learning to ranking model to rank entity pairs
-    \item KB completion methods are explainable, with combined literal and relational facts we can easily predict relation in KBs.
+    \item KB completion feature type is much more comprehensive, we use both literal and relational facts to generate feature matrix, and in different KBs our features help to generate higher scores both in ranking tasks and classification tasks.
+    \item KB completion was considered as a ranking method, we use learning to ranking model to rank entity pairs rather than simple taking it as a classification model.
+    \item KB completion methods are easily explainable, with combined literal and relational facts we can easily predict relation in KBs, other deep neural network models and tree models are used with assembly features.
   \end{itemize}
 
 \end{eabstract}
