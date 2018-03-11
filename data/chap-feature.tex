@@ -243,7 +243,7 @@ isAffiliatedTo$^{-1}$ $\to$ isCitizenOf $\to$ livesIn $\to$ isLocatedIn$^{-1}$
   \caption{FB15K部分关系MAP得分}
     \begin{tabular}{|l|r|r|r|r|r|r|}
     \hline
-    MAP-score & \multicolumn{1}{l|}{PRA-lit  } & \multicolumn{1}{l|}{PRA} & \multicolumn{1}{l|}{SFE-lit} & \multicolumn{1}{l|}{sfe} & \multicolumn{1}{l|}{transE} & \multicolumn{1}{l|}{transR} \\
+    MAP-score & \multicolumn{1}{l|}{PRA-lit  } & \multicolumn{1}{l|}{PRA} & \multicolumn{1}{l|}{SFE-lit} & \multicolumn{1}{l|}{SFE} & \multicolumn{1}{l|}{transE} & \multicolumn{1}{l|}{transR} \\
     \hline
     /people/person/profession & 12.150\% & 11.902\% & 12.359\% & 12.096\% & 77.134\% & 71.784\% \\
     \hline
@@ -294,10 +294,4 @@ isAffiliatedTo$^{-1}$ $\to$ isCitizenOf $\to$ livesIn $\to$ isLocatedIn$^{-1}$
 \section{本章工作总结}
 本部分通过抽取了实体属性类型、关系路径类型作为知识库补全的特征向量类型，并通过计算每个关系下实体对的实体属性特征值和关系路径特征值。将这些特征值进行组合，并构建了简单的逻辑回归算法模型，通过再不同知识库中的实验，评估了不同类型特征组合的情况下，我们结合关系路径特征和实体属性特征相比传统的关系路径特征计算问题，在分类预测、排序预测评估指标下的优势。
 
-在接下来的章节中，本研究将通过构建不同的机器学习模型，通过比较逻辑回归分类算法、基于adaboost的树排序算法等来评估知识库补全算法应该如何选择预测模型。
-
-
-
-
-
-
+在接下来的章节中，本研究将通过构建不同的机器学习模型，通过比较逻辑回归分类算法、基于adaboost的树排序算法等来评估知识库补全算法应该如何选择预测模型。 
