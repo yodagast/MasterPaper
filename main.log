@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  10 MAR 2018 20:12
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  13 MAR 2018 09:34
 entering extended mode
 **main
 (E:\研究生毕业论文\masterPaper\main.tex
@@ -1432,7 +1432,7 @@ LaTeX Warning: File c7087.cmap not found on input line 25.
 
 LaTeX Warning: File c7082.cmap not found on input line 25.
 
-<figures/kb1.PNG, id=507, 351.3125pt x 204.26312pt>
+<figures/kb1.PNG, id=508, 351.3125pt x 204.26312pt>
 File: figures/kb1.PNG Graphic file (type png)
  <use figures/kb1.PNG>
 [1
@@ -1479,7 +1479,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: File c7069.cmap not found on input line 202.
 
-<figures/intro.PNG, id=569, 259.46938pt x 295.60437pt>
+<figures/intro.PNG, id=570, 259.46938pt x 295.60437pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1537,7 +1537,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15]
 (E:\研究生毕业论文\masterPaper\data/chap-frame.tex
-<figures/frame1.PNG, id=722, 152.06813pt x 100.87688pt>
+<figures/frame1.PNG, id=723, 152.06813pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
 <use figures/frame1.PNG> [16
@@ -1668,7 +1668,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\研究生毕业论文\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 3F9CB9BE5CF6554D0CF476C686C7D6A3;8023.
+(rerunfilecheck)             Checksum: D3755CC43E3E7DED25E2CE58060FBAA0;8039.
 
 
 LaTeX Warning: There were undefined references.
@@ -1678,11 +1678,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15851 strings out of 495362
- 219841 string characters out of 3184024
- 318200 words of memory out of 3000000
- 17738 multiletter control sequences out of 15000+200000
- 165583 words of font info for 489 fonts, out of 3000000 for 9000
+ 15857 strings out of 495362
+ 219958 string characters out of 3184024
+ 318244 words of memory out of 3000000
+ 17742 multiletter control sequences out of 15000+200000
+ 166163 words of font info for 491 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,1920b,2108s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
@@ -1702,24 +1702,24 @@ s/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><D:/CTEX/CTeX/fonts/truetype/ch
 inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fo
 nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
 ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
-f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
-imhei.ttf>{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhe
-i.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.
-ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
-e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Window
-s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fon
+ts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C
 :/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tru
-etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
-EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
-simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
-truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
-/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts
+etype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truet
+ype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX
+/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Window
+s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
+:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
+CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
+e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/font
+s/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><
+D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chi
+nese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
+onts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts
 /simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
 ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
-C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
-ei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei
+C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tr
+uetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei
 .ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
 s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
 ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
@@ -1777,7 +1777,7 @@ pe1/public/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pf
 b><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/typ
 e1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CT
 EX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (45 pages, 1017771 bytes).
+Output written on main.pdf (45 pages, 1018366 bytes).
 PDF statistics:
  1515 PDF objects out of 1728 (max. 8388607)
  187 named destinations out of 1000 (max. 500000)
