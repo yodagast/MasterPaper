@@ -1,8 +1,9 @@
 \begin{thebibliography}{10}
 
-\bibitem{Dong}
-Xin~Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, et~al.
-\newblock {From Data Fusion to Knowledge Fusion}[J]. 881--892.
+\bibitem{Dong2014FromDF}
+Xin Dong, Evgeniy Gabrilovich, Geremy Heitz, et~al.
+\newblock From Data Fusion to Knowledge Fusion[J].
+\newblock PVLDB, 2014, 7:881--892.
 
 \bibitem{NELL-aaai15}
 T.~Mitchell, W.~Cohen, E.~Hruschka, et~al.
@@ -37,16 +38,16 @@ Michel Dumontier, Alison Callahan, Jose Cruz-Toledo, et~al.
   CEUR-WS.org, 2014.
 \newblock  401--404.
 
+\bibitem{Lu2010LinkPI}
+Linyuan Lu, Tao Zhou.
+\newblock Link Prediction in Complex Networks: A Survey[J].
+\newblock CoRR, 2010, abs/1010.0725.
+
 \bibitem{Weikum2010FromIT}
 Gerhard Weikum, Martin Theobald.
 \newblock From information to knowledge: harvesting entities and relationships
   from web sources[C].
 \newblock Proceedings of PODS, 2010.
-
-\bibitem{Vrandecic2014WikidataAF}
-Denny Vrandecic, year={2014} Markus~Kr{\"{o}tzsch},
-  journal={Commun. ACM}.
-\newblock Wikidata: a free collaborative knowledgebase[J].
 
 \bibitem{Kasneci2008TheYA}
 Gjergji Kasneci, Maya Ramanath, Fabian~M. Suchanek, et~al.
@@ -273,15 +274,15 @@ Quan Wang, Jing Liu, Yuanfei Luo, et~al.
   Association for Computational Linguistics, 2016.
 \newblock  1308--1318.
 
-\bibitem{Lao2012}
-Ni~Lao, Teruko Mitamura, Tom Mitchell, et~al.
-\newblock {Efficient Random Walk Inference with Knowledge Bases}[J].
-\newblock PhD thesis, 2012.
-
 \bibitem{West2014}
 Robert West, Evgeniy Gabrilovich, Kevin Murphy, et~al.
 \newblock {Knowledge Base Completion via Search-Based Question Answering}[J].
 \newblock 2014.
+
+\bibitem{Lao2012}
+Ni~Lao, Teruko Mitamura, Tom Mitchell, et~al.
+\newblock {Efficient Random Walk Inference with Knowledge Bases}[J].
+\newblock PhD thesis, 2012.
 
 \bibitem{Lovsz1993RandomWO}
 L{\'a}szl{\'o} Lov{\'a}sz.
