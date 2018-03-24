@@ -35,10 +35,10 @@
 \contentsline {section}{\numberline {3.5}本章工作总结}{27}{section.3.5}
 \contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{28}{chapter.4}
 \contentsline {section}{\numberline {4.1}问题引入}{28}{section.4.1}
-\contentsline {section}{\numberline {4.2}逻辑回归分类模型}{29}{section.4.2}
+\contentsline {section}{\numberline {4.2}基于逻辑回归的补全模型}{28}{section.4.2}
 \contentsline {section}{\numberline {4.3}基于学习排序的树模型}{29}{section.4.3}
-\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全}{30}{section.4.4}
-\contentsline {section}{\numberline {4.5}本章工作总结}{30}{section.4.5}
+\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全实验}{30}{section.4.4}
+\contentsline {section}{\numberline {4.5}本章工作总结}{31}{section.4.5}
 \contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{32}{chapter.5}
 \contentsline {section}{\numberline {5.1}论文工作总结}{32}{section.5.1}
 \contentsline {section}{\numberline {5.2}未来研究展望}{33}{section.5.2}
