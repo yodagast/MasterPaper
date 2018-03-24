@@ -17,12 +17,12 @@
 \contentsline {subsection}{\numberline {2.2.1}基于表示学习的知识库补全}{12}{subsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.1.1}RESCAL}{12}{subsubsection.2.2.1.1}
 \contentsline {subsubsection}{\numberline {2.2.1.2}TransE}{13}{subsubsection.2.2.1.2}
-\contentsline {subsection}{\numberline {2.2.2}基于符号逻辑的知识库补全}{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.2}基于符号逻辑的知识库补全}{14}{subsection.2.2.2}
 \contentsline {subsubsection}{\numberline {2.2.2.1}规则挖掘}{14}{subsubsection.2.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.2.2}路径排序算法}{14}{subsubsection.2.2.2.2}
 \contentsline {section}{\numberline {2.3}知识库补全相关假设}{15}{section.2.3}
-\contentsline {section}{\numberline {2.4}评价方式}{15}{section.2.4}
-\contentsline {section}{\numberline {2.5}本章工作总结}{17}{section.2.5}
+\contentsline {section}{\numberline {2.4}评价方式}{16}{section.2.4}
+\contentsline {section}{\numberline {2.5}本章工作总结}{18}{section.2.5}
 \contentsline {chapter}{第\nobreakspace {}3\nobreakspace {}章\hspace {1em} 结合关系路径和实体属性的知识库补全}{19}{chapter.3}
 \contentsline {section}{\numberline {3.1}问题引入}{19}{section.3.1}
 \contentsline {section}{\numberline {3.2}关系路径特征计算}{20}{section.3.2}

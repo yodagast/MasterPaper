@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  24 MAR 2018 16:37
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  24 MAR 2018 16:42
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1477,11 +1477,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [8]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-relatedwork.tex
 
-LaTeX Warning: File c709f.cmap not found on input line 16.
+LaTeX Warning: File c709f.cmap not found on input line 23.
 
 
 Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 9 undefined on
- input line 25.
+ input line 33.
 
 [9
 
@@ -1493,22 +1493,25 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
 
-LaTeX Warning: File c706e.cmap not found on input line 85.
+LaTeX Warning: File c706e.cmap not found on input line 93.
+
+
+Underfull \vbox (badness 2435) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
 
-LaTeX Warning: File c7092.cmap not found on input line 107.
-
-
-LaTeX Warning: File ot151.cmap not found on input line 116.
+LaTeX Warning: File c7092.cmap not found on input line 115.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
+Underfull \vbox (badness 2351) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
@@ -1542,45 +1545,9 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [20]
 Missing character: There is no Ž in font txr!
 Missing character: There is no Ž in font txr!
-Missing character: There is no û in font txr!
-Missing character: There is no Ä in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no û in font txr!
-Missing character: There is no ï in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no ‹ in font txr!
-Missing character: There is no Î in font txr!
-Missing character: There is no Í in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no û in font txr!
-Missing character: There is no ï in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no ‹ in font txr!
-Missing character: There is no Ó in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no û in font txr!
-Missing character: There is no ï in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no ‹ in font txr!
-Missing character: There is no Æ in font txr!
-Missing character: There is no ù in font txr!
-Missing character: There is no Ž in font txr!
-Missing character: There is no Í in font txr!
-Missing character: There is no ¹ in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no û in font txr!
-Missing character: There is no ï in font txr!
-Missing character: There is no „ in font txr!
-Missing character: There is no ì in font txr!
-Missing character: There is no Ç in font txr!
 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.74 ...‘çš„å…³ç³»è·¯å¾„æˆ‘ä»¬é‡‡ç”¨${å±…ä½åœ¨}^
-                                                  {-1}$è¡¨ç¤ºã€‚
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+
+LaTeX Warning: File ot15c.cmap not found on input line 90.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1657,6 +1624,9 @@ Overfull \hbox (5.24767pt too wide) in paragraph at lines 314--314
 Overfull \hbox (21.75761pt too wide) in paragraph at lines 282--318
  [][][] 
  []
+
+
+LaTeX Warning: File ot151.cmap not found on input line 329.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1749,10 +1719,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15834 strings out of 495362
- 219290 string characters out of 3184024
- 316794 words of memory out of 3000000
- 17734 multiletter control sequences out of 15000+200000
+ 15842 strings out of 495362
+ 219425 string characters out of 3184024
+ 317879 words of memory out of 3000000
+ 17737 multiletter control sequences out of 15000+200000
  166032 words of font info for 487 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,1920b,2117s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1848,7 +1818,7 @@ D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1
 /urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/C
 TEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on main.pdf (45 pages, 1008259 bytes).
+Output written on main.pdf (45 pages, 1007469 bytes).
 PDF statistics:
  1471 PDF objects out of 1728 (max. 8388607)
  178 named destinations out of 1000 (max. 500000)
