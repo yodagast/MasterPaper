@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  24 MAR 2018 20:22
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  28 MAR 2018 14:09
 entering extended mode
 **main
 (E:\研究生毕业论文\masterPaper\main.tex
@@ -1476,11 +1476,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [7 <E:/研究生毕业论文/masterPaper/figures/intro.PNG>]
 (E:\研究生毕业论文\masterPaper\data/chap-relatedwork.tex
 
-LaTeX Warning: File c709f.cmap not found on input line 23.
+LaTeX Warning: File c709f.cmap not found on input line 22.
 
 
 Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 8 undefined on
- input line 33.
+ input line 32.
 
 [8
 
@@ -1488,21 +1488,22 @@ Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 8 undefined on
 
 
 ]
+
+LaTeX Warning: File ot177.cmap not found on input line 75.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 
-LaTeX Warning: File c706e.cmap not found on input line 93.
-
-
-Underfull \vbox (badness 2435) has occurred while \output is active []
+LaTeX Warning: File c706e.cmap not found on input line 92.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
 
-LaTeX Warning: File c7092.cmap not found on input line 115.
+LaTeX Warning: File c7092.cmap not found on input line 114.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1642,16 +1643,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
+
+LaTeX Warning: File ot162.cmap not found on input line 79.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-(E:\研究生毕业论文\masterPaper\data/chap-summary.tex [33
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+(E:\研究生毕业论文\masterPaper\data/chap-summary.tex [34
 
 
 
@@ -1659,11 +1670,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34])
+ [35])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-(E:\研究生毕业论文\masterPaper\main.bbl [36
+ [36]
+(E:\研究生毕业论文\masterPaper\main.bbl [37
 
 
 
@@ -1671,13 +1682,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
+ [38]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38])
+ [39])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39]
+ [40]
 (E:\研究生毕业论文\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
@@ -1688,7 +1699,7 @@ LaTeX Warning: File c709c.cmap not found on input line 15.
 LaTeX Font Info:    Try loading font information for C70+kai on input line 21.
 (D:\CTEX\CTeX\tex\latex\CJK\UTF8\c70kai.fd
 File: c70kai.fd 2009/09/23 4.8.2
-)) [40
+)) [41
 
 
 
@@ -1713,10 +1724,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F767B4A9FFBE3D41D41A573AF477C788;7137.
  ) 
 Here is how much of TeX's memory you used:
- 15837 strings out of 495362
- 219450 string characters out of 3184024
- 321049 words of memory out of 3000000
- 17738 multiletter control sequences out of 15000+200000
+ 15854 strings out of 495362
+ 219727 string characters out of 3184024
+ 321125 words of memory out of 3000000
+ 17744 multiletter control sequences out of 15000+200000
  166329 words of font info for 488 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,1920b,2116s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1812,9 +1823,9 @@ D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1
 /urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/C
 TEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/tim
 es/utmri8a.pfb>
-Output written on main.pdf (46 pages, 1039246 bytes).
+Output written on main.pdf (47 pages, 1041306 bytes).
 PDF statistics:
- 1480 PDF objects out of 1728 (max. 8388607)
- 180 named destinations out of 1000 (max. 500000)
+ 1486 PDF objects out of 1728 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
  746 words of extra memory for PDF output out of 10000 (max. 10000000)
 
