@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  28 MAR 2018 14:09
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  29 MAR 2018 20:20
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1102,7 +1102,7 @@ File: c70song.fd 2009/09/23 4.8.2
 LaTeX Warning: File c7030.cmap not found on input line 17.
 
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/cover.tex)
-<figures/BNU_name.pdf, id=197, 461.725pt x 124.465pt>
+<figures/BNU_name.pdf, id=173, 461.725pt x 124.465pt>
 File: figures/BNU_name.pdf Graphic file (type pdf)
 
 <use figures/BNU_name.pdf>
@@ -1369,19 +1369,19 @@ l.27 \tableofcontents
 
 LaTeX Warning: File c708a.cmap not found on input line 4.
 
+
+LaTeX Warning: File c709a.cmap not found on input line 26.
+
 [3
 
 
 
 ]
 
-LaTeX Warning: File c709a.cmap not found on input line 32.
+LaTeX Warning: File c7081.cmap not found on input line 40.
 
 
-LaTeX Warning: File c7081.cmap not found on input line 46.
-
-
-LaTeX Warning: File c708c.cmap not found on input line 46.
+LaTeX Warning: File c708c.cmap not found on input line 40.
 
 )
 \tf@toc=\write4
@@ -1416,7 +1416,7 @@ LaTeX Warning: File c7087.cmap not found on input line 25.
 
 LaTeX Warning: File c7082.cmap not found on input line 25.
 
-<figures/kb2.PNG, id=472, 510.40688pt x 374.90062pt>
+<figures/kb2.PNG, id=442, 510.40688pt x 374.90062pt>
 File: figures/kb2.PNG Graphic file (type png)
  <use figures/kb2.PNG>
 [1
@@ -1468,7 +1468,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-<figures/intro.PNG, id=539, 227.34938pt x 213.79875pt>
+<figures/intro.PNG, id=511, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>)
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1488,30 +1488,23 @@ Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 8 undefined on
 
 
 ]
-
-LaTeX Warning: File ot177.cmap not found on input line 75.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
 
-LaTeX Warning: File c706e.cmap not found on input line 92.
+LaTeX Warning: File c706e.cmap not found on input line 91.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
 
-LaTeX Warning: File c7092.cmap not found on input line 114.
+LaTeX Warning: File c7092.cmap not found on input line 112.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \vbox (badness 2351) has occurred while \output is active []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
@@ -1523,18 +1516,15 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [14]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15]
+ [15])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
+ [16]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.tex
-<figures/frame1.PNG, id=696, 151.56625pt x 100.87688pt>
+<figures/frame1.PNG, id=663, 151.56625pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
-<use figures/frame1.PNG> [18
+<use figures/frame1.PNG> [17
 
 
 
@@ -1542,29 +1532,29 @@ File: figures/frame1.PNG Graphic file (type png)
  <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/frame1.PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+ [18]
 Missing character: There is no Ž in font txr!
 Missing character: There is no Ž in font txr!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20]
+ [19]
 Underfull \vbox (badness 2707) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21]
-<figures/literal-relation-compute.PNG, id=731, 310.66063pt x 322.20375pt>
+ [20]
+<figures/literal-relation-compute.PNG, id=698, 310.66063pt x 322.20375pt>
 File: figures/literal-relation-compute.PNG Graphic file (type png)
 
 <use figures/literal-relation-compute.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
+ [21 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
+ [22]
 Underfull \hbox (badness 1348) in paragraph at lines 247--247
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
@@ -1574,10 +1564,10 @@ Underfull \hbox (badness 1348) in paragraph at lines 247--247
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [24]
 Overfull \hbox (2.11601pt too wide) in paragraph at lines 307--307
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
@@ -1630,14 +1620,14 @@ Overfull \hbox (21.75761pt too wide) in paragraph at lines 301--337
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27])
+ [26])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [29
+ [27]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [28
 
 
 
@@ -1648,21 +1638,21 @@ Underfull \vbox (badness 1527) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+ [29]
 
 LaTeX Warning: File ot162.cmap not found on input line 79.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31])
+ [30])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [32]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [33]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [34
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [33
 
 
 
@@ -1670,11 +1660,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35])
+ [34])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [37
+ [35]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [36
 
 
 
@@ -1682,13 +1672,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [37]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39])
+ [38])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
+ [39]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
@@ -1699,7 +1689,7 @@ LaTeX Warning: File c709c.cmap not found on input line 15.
 LaTeX Font Info:    Try loading font information for C70+kai on input line 21.
 (D:\CTEX\CTeX\tex\latex\CJK\UTF8\c70kai.fd
 File: c70kai.fd 2009/09/23 4.8.2
-)) [41
+)) [40
 
 
 
@@ -1721,16 +1711,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F767B4A9FFBE3D41D41A573AF477C788;7137.
+(rerunfilecheck)             Checksum: ACF2CD1DF436A32ACD418C1395C4F508;6185.
  ) 
 Here is how much of TeX's memory you used:
- 15854 strings out of 495362
- 219727 string characters out of 3184024
- 321125 words of memory out of 3000000
- 17744 multiletter control sequences out of 15000+200000
- 166329 words of font info for 488 fonts, out of 3000000 for 9000
+ 15855 strings out of 495362
+ 219822 string characters out of 3184024
+ 321228 words of memory out of 3000000
+ 17747 multiletter control sequences out of 15000+200000
+ 164953 words of font info for 486 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,13n,44p,1920b,2116s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,44p,1920b,2113s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
 imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
 /Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
@@ -1748,38 +1738,61 @@ s/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><D:/CTEX/CTeX/fonts/truetype/ch
 inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fo
 nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
 ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
-f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
-imhei.ttf>{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhe
-i.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.
-ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
-e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Window
-s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
-:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
-CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
-e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/font
-s/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><
-D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chi
-nese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
-onts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fon
+ts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C
+:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tru
+etype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truet
+ype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Wind
+ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/
+chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
+:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tru
+etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
+EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
+simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
+truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
+/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
+se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts
 /simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
 ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
 C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
-ei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun
-.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
+ei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/
+fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
 s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
 ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
-onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/C
+TEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
 dows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf
-><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/
+><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
+mhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tr
+uetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/C
+TEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese
+/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/s
+imhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
+sun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tru
+etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
+EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
+simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
 truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
 /CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
 se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fon
-ts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
-imhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/t
+ts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
+<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/ch
+inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
+fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
+tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simfang.tt
+f><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts
+/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Wi
+ndows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang
+.ttf><C:/Windows/Fonts/simfang.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.
+ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
+e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
+TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
+un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/true
+type/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTE
+X/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/s
+imsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/t
 ruetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
 CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
 e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/font
@@ -1791,41 +1804,18 @@ f><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/
 chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTe
 X/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun
 .ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.t
-tf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Font
-s/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/W
-indows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfan
-g.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truet
-ype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX
-/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/si
-msun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tr
-uetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/C
-TEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese
-/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts
-/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D
-:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chin
-ese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fo
-nts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
-><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/c
-hinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX
-/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.
-ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
-e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
-TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
-un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/true
-type/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTE
-X/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/s
-imsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb
-><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type
-1/public/txfonts/txex.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><
-D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1
-/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/C
-TEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/tim
-es/utmri8a.pfb>
-Output written on main.pdf (47 pages, 1041306 bytes).
+pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
+CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
+sun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/MiKTeX/fonts/t
+ype1/public/txfonts/rtxmi.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxr.p
+fb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb><D:/CTEX/MiKTeX/fonts/ty
+pe1/public/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pf
+b><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/typ
+e1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CT
+EX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (46 pages, 1035549 bytes).
 PDF statistics:
- 1486 PDF objects out of 1728 (max. 8388607)
- 181 named destinations out of 1000 (max. 500000)
- 746 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1453 PDF objects out of 1728 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 698 words of extra memory for PDF output out of 10000 (max. 10000000)
 
