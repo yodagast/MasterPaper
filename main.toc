@@ -25,7 +25,7 @@
 \contentsline {section}{\numberline {3.3}实体属性特征计算}{20}{section.3.3}
 \contentsline {section}{\numberline {3.4}关系路径和实体属性特征实验}{21}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}YAGO知识库实验}{22}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Freebase知识库实验}{23}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.2}Freebase知识库实验}{24}{subsection.3.4.2}
 \contentsline {section}{\numberline {3.5}本章工作总结}{27}{section.3.5}
 \contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{28}{chapter.4}
 \contentsline {section}{\numberline {4.1}问题引入}{28}{section.4.1}
