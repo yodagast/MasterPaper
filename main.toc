@@ -14,27 +14,28 @@
 \contentsline {section}{\numberline {2.2}知识库补全和推理}{11}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}基于表示学习的知识库补全}{11}{subsection.2.2.1}
 \contentsline {subsection}{\numberline {2.2.2}基于符号逻辑的知识库补全}{12}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}知识库补全相关假设}{13}{section.2.3}
+\contentsline {section}{\numberline {2.3}知识库补全相关假设}{14}{section.2.3}
 \contentsline {section}{\numberline {2.4}评价方式}{14}{section.2.4}
 \contentsline {section}{\numberline {2.5}本章工作总结}{16}{section.2.5}
-\contentsline {chapter}{第\nobreakspace {}3\nobreakspace {}章\hspace {1em} 结合关系路径和实体属性的知识库补全}{17}{chapter.3}
+\contentsline {chapter}{第\nobreakspace {}3\nobreakspace {}章\hspace {1em} 结合关系路径和实体属性的知识库补全}{18}{chapter.3}
 \contentsline {section}{\numberline {3.1}问题引入}{18}{section.3.1}
-\contentsline {section}{\numberline {3.2}关系路径特征计算}{19}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}关系路径类型集合}{19}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}关系路径特征向量}{19}{subsection.3.2.2}
-\contentsline {section}{\numberline {3.3}实体属性特征计算}{20}{section.3.3}
-\contentsline {section}{\numberline {3.4}关系路径和实体属性特征实验}{21}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}YAGO知识库实验}{22}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Freebase知识库实验}{24}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}本章工作总结}{27}{section.3.5}
-\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{28}{chapter.4}
-\contentsline {section}{\numberline {4.1}问题引入}{28}{section.4.1}
-\contentsline {section}{\numberline {4.2}基于逻辑回归的补全模型}{29}{section.4.2}
-\contentsline {section}{\numberline {4.3}基于学习排序的树模型}{30}{section.4.3}
-\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全实验}{31}{section.4.4}
-\contentsline {section}{\numberline {4.5}本章工作总结}{32}{section.4.5}
-\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{34}{chapter.5}
-\contentsline {section}{\numberline {5.1}论文工作总结}{34}{section.5.1}
-\contentsline {section}{\numberline {5.2}未来研究展望}{35}{section.5.2}
-\contentsline {chapter}{参考文献}{37}{section*.34}
-\contentsline {chapter}{致谢}{41}{section*.37}
+\contentsline {section}{\numberline {3.2}结合实体属性和关系路径特征}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}关系路径特征计算}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}关系路径类型集合}{20}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}关系路径特征向量}{21}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}实体属性特征计算}{21}{section.3.4}
+\contentsline {section}{\numberline {3.5}关系路径和实体属性特征实验}{22}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}YAGO知识库实验}{24}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Freebase知识库实验}{26}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}本章工作总结}{29}{section.3.6}
+\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}问题引入}{31}{section.4.1}
+\contentsline {section}{\numberline {4.2}基于逻辑回归的补全模型}{32}{section.4.2}
+\contentsline {section}{\numberline {4.3}基于学习排序的树模型}{33}{section.4.3}
+\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全实验}{34}{section.4.4}
+\contentsline {section}{\numberline {4.5}本章工作总结}{36}{section.4.5}
+\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}论文工作总结}{37}{section.5.1}
+\contentsline {section}{\numberline {5.2}未来研究展望}{38}{section.5.2}
+\contentsline {chapter}{参考文献}{40}{section*.34}
+\contentsline {chapter}{致谢}{44}{section*.37}
