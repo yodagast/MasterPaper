@@ -28,14 +28,14 @@
 \contentsline {subsection}{\numberline {3.5.1}YAGO知识库实验}{24}{subsection.3.5.1}
 \contentsline {subsection}{\numberline {3.5.2}Freebase知识库实验}{26}{subsection.3.5.2}
 \contentsline {section}{\numberline {3.6}本章工作总结}{29}{section.3.6}
-\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{31}{chapter.4}
-\contentsline {section}{\numberline {4.1}问题引入}{31}{section.4.1}
-\contentsline {section}{\numberline {4.2}基于逻辑回归的补全模型}{32}{section.4.2}
-\contentsline {section}{\numberline {4.3}基于学习排序的树模型}{33}{section.4.3}
-\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全实验}{34}{section.4.4}
-\contentsline {section}{\numberline {4.5}本章工作总结}{36}{section.4.5}
-\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}论文工作总结}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}未来研究展望}{38}{section.5.2}
-\contentsline {chapter}{参考文献}{40}{section*.34}
-\contentsline {chapter}{致谢}{44}{section*.37}
+\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 知识库补全预测模型}{30}{chapter.4}
+\contentsline {section}{\numberline {4.1}问题引入}{30}{section.4.1}
+\contentsline {section}{\numberline {4.2}基于逻辑回归的补全模型}{31}{section.4.2}
+\contentsline {section}{\numberline {4.3}基于学习排序的树模型}{32}{section.4.3}
+\contentsline {section}{\numberline {4.4}基于学习排序的知识库补全实验}{33}{section.4.4}
+\contentsline {section}{\numberline {4.5}本章工作总结}{37}{section.4.5}
+\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{38}{chapter.5}
+\contentsline {section}{\numberline {5.1}论文工作总结}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}未来研究展望}{39}{section.5.2}
+\contentsline {chapter}{参考文献}{41}{section*.37}
+\contentsline {chapter}{致谢}{45}{section*.40}
