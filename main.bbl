@@ -29,6 +29,25 @@ Christian Bizer, Jens Lehmann, Georgi Kobilarov, et~al.
 \newblock DBpedia - A Crystallization Point for the Web of Data[J].
 \newblock Web Semant., 2009, 7(3):154--165.
 
+\bibitem{Gao2005KnowledgeBasedIE}
+Yanbin Gao, Gang Zhao.
+\newblock Knowledge-Based Information Extraction: A Case Study of Recognizing
+  Emails of Nigerian Frauds[C].
+\newblock Proceedings of NLDB, 2005.
+
+\bibitem{Meng2017KnowledgeBS}
+Rui Meng, Lei Chen, Yongxin Tong, et~al.
+\newblock Knowledge Base Semantic Integration Using Crowdsourcing[J].
+\newblock IEEE Transactions on Knowledge and Data Engineering, 2017,
+  29:1087--1100.
+
+\bibitem{Shenassa2008KnowledgeBE}
+M~M Shenassa, K.~Khakpour.
+\newblock Knowledge base expert system for tuning PID controllers using
+  wireless technology[J].
+\newblock 2008 International Conference on Computer and Communication
+  Engineering, 2008. 310--313.
+
 \bibitem{Dumontier:2014:BRL:2878453.2878554}
 Michel Dumontier, Alison Callahan, Jose Cruz-Toledo, et~al.
 \newblock Bio2RDF Release 3: A Larger Connected Network of Linked Data for the
@@ -37,6 +56,11 @@ Michel Dumontier, Alison Callahan, Jose Cruz-Toledo, et~al.
   Posters \&\#38; Demonstrations Track - Volume 1272, Aachen, Germany, Germany:
   CEUR-WS.org, 2014.
 \newblock  401--404.
+
+\bibitem{Li2016CommonsenseKB}
+Xiang Li, Aynaz Taheri, Lifu Tu, et~al.
+\newblock Commonsense Knowledge Base Completion[C].
+\newblock Proceedings of ACL, 2016.
 
 \bibitem{Lu2010LinkPI}
 Linyuan Lu, Tao Zhou.
@@ -75,6 +99,11 @@ Johannes Hoffart, Fabian~M. Suchanek, Klaus Berberich, et~al.
 \newblock YAGO2: A spatially and temporally enhanced knowledge base from
   Wikipedia[J].
 \newblock Artif. Intell., 2013, 194:28--61.
+
+\bibitem{Mahdisoltani2015YAGO3AK}
+Farzaneh Mahdisoltani, Joanna Biega, Fabian~M. Suchanek.
+\newblock YAGO3: A Knowledge Base from Multilingual Wikipedias[C].
+\newblock Proceedings of CIDR, 2015.
 
 \bibitem{Yao2014InformationEO}
 Xuchen Yao, Benjamin~Van Durme.

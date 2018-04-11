@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  6 APR 2018 05:20
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  11 APR 2018 20:49
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1328,19 +1328,28 @@ LaTeX Font Info:    Try loading font information for C70+hei on input line 24.
 File: c70hei.fd 2009/09/23 4.8.2
 )
 
-LaTeX Warning: File c706d.cmap not found on input line 24.
+LaTeX Warning: File c7097.cmap not found on input line 24.
 
 
-LaTeX Warning: File c7084.cmap not found on input line 24.
+LaTeX Warning: File c707d.cmap not found on input line 24.
 
 
 LaTeX Warning: File c706a.cmap not found on input line 24.
 
 
-LaTeX Warning: File c7071.cmap not found on input line 24.
+LaTeX Warning: File c706d.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7086.cmap not found on input line 24.
+
+
+LaTeX Warning: File c7071.cmap not found on input line 24.
+
+
+LaTeX Warning: File c7084.cmap not found on input line 24.
+
+
+LaTeX Warning: File c709a.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7070.cmap not found on input line 24.
@@ -1369,9 +1378,6 @@ l.27 \tableofcontents
 
 LaTeX Warning: File c708a.cmap not found on input line 4.
 
-
-LaTeX Warning: File c709a.cmap not found on input line 27.
-
 [3
 
 
@@ -1388,15 +1394,6 @@ LaTeX Warning: File c708c.cmap not found on input line 41.
  [4] (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-intro.tex
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 (Font)              scaled to size 13.34981pt on input line 11.
-
-
-LaTeX Warning: File c7097.cmap not found on input line 13.
-
-
-LaTeX Warning: File c7094.cmap not found on input line 14.
-
-
-LaTeX Warning: File c707d.cmap not found on input line 14.
 
 
 LaTeX Warning: File c7055.cmap not found on input line 17.
@@ -1416,15 +1413,14 @@ LaTeX Warning: File c7087.cmap not found on input line 25.
 
 LaTeX Warning: File c7082.cmap not found on input line 25.
 
-<figures/kb2.PNG, id=447, 510.40688pt x 374.90062pt>
-File: figures/kb2.PNG Graphic file (type png)
- <use figures/kb2.PNG>
 [1
 
 
 
 
-]
+] <figures/kb2.PNG, id=479, 510.40688pt x 374.90062pt>
+File: figures/kb2.PNG Graphic file (type png)
+ <use figures/kb2.PNG>
 
 LaTeX Warning: File c706f.cmap not found on input line 41.
 
@@ -1434,13 +1430,19 @@ LaTeX Warning: File c7085.cmap not found on input line 41.
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
 (Font)              scaled to size 12.39626pt on input line 43.
 
+LaTeX Warning: File c7094.cmap not found on input line 47.
+
+
+Underfull \vbox (badness 2990) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/kb2.PNG>]
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 53
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 54
 .
 
-Overfull \hbox (35.0623pt too wide) in paragraph at lines 53--103
+Overfull \hbox (35.0623pt too wide) in paragraph at lines 54--104
  [][][] 
  []
 
@@ -1448,18 +1450,11 @@ Overfull \hbox (35.0623pt too wide) in paragraph at lines 53--103
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-
-LaTeX Warning: File c7099.cmap not found on input line 127.
-
-
-Underfull \vbox (badness 1728) has occurred while \output is active []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 
-LaTeX Warning: File c7069.cmap not found on input line 207.
+LaTeX Warning: File c7099.cmap not found on input line 126.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1468,49 +1463,62 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-<figures/intro.PNG, id=516, 227.34938pt x 213.79875pt>
+
+LaTeX Warning: File c7092.cmap not found on input line 203.
+
+
+LaTeX Warning: File c7069.cmap not found on input line 209.
+
+<figures/intro.PNG, id=525, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
- <use figures/intro.PNG>)
+ <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/intro.PNG>]
+ [7])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/intro.PNG>]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-relatedwork.tex
 
 LaTeX Warning: File c709f.cmap not found on input line 22.
 
 
-Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 8 undefined on
+Package natbib Warning: Citation `Mitraka2015WikidataAP' on page 9 undefined on
  input line 32.
 
-[8
+[9
 
 
 
 
 ]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-
-LaTeX Warning: File c706e.cmap not found on input line 91.
+Underfull \vbox (badness 1442) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
 
-LaTeX Warning: File c7092.cmap not found on input line 110.
+LaTeX Warning: File ot177.cmap not found on input line 93.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
+
+LaTeX Warning: File c706e.cmap not found on input line 93.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
+
+LaTeX Warning: File ot15b.cmap not found on input line 178.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
@@ -1519,15 +1527,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16])
+ [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [17])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.tex
-<figures/frame1.PNG, id=672, 151.56625pt x 100.87688pt>
+<figures/frame1.PNG, id=686, 151.56625pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
-<use figures/frame1.PNG> [18
+<use figures/frame1.PNG> [19
 
 
 
@@ -1535,14 +1546,14 @@ File: figures/frame1.PNG Graphic file (type png)
  <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/frame1.PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<figures/literal-relation-compute.PNG, id=707, 310.66063pt x 322.20375pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22]
+<figures/literal-relation-compute.PNG, id=721, 310.66063pt x 322.20375pt>
 File: figures/literal-relation-compute.PNG Graphic file (type png)
 
 <use figures/literal-relation-compute.PNG>
@@ -1555,33 +1566,33 @@ LaTeX Warning: File ot188.cmap not found on input line 130.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [23]
 Underfull \hbox (badness 6658) in paragraph at lines 130--137
-[]\C70/song/m/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e - 
-\C70/song/m/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e †
-\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebase\
-C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e “
- \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/57 ú \C70/song/m/n/12.045/67 ,
- \C70/song/m/n/12.045/65 p \C70/song/bx/n/12.045/63 n \C70/song/m/n/12.045/60 Å
- \C70/song/m/n/12.045/51 µ \C70/song/m/n/12.045/30  \C70/song/bx/n/12.045/62 
- \C70/song/bx/n/12.045/4e ì \C70/song/m/n/12.045/90 	 \C70/song/bx/n/12.045/62 
-é
+[]\C70/song/bx/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e -
+ \C70/song/m/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e 
+†\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebase
+\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e 
+“ \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/57 ú \C70/song/m/n/12.045/67 
+, \C70/song/bx/n/12.045/65 p \C70/song/bx/n/12.045/63 n \C70/song/m/n/12.045/60
+ Å \C70/song/bx/n/12.045/51 µ \C70/song/m/n/12.045/30  \C70/song/bx/n/12.045/6
+2  \C70/song/bx/n/12.045/4e ì \C70/song/m/n/12.045/90 	 \C70/song/bx/n/12.045/
+62 é
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
+ [24 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
 
 LaTeX Warning: File ot14e.cmap not found on input line 178.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
+ [26]
 Underfull \hbox (badness 1348) in paragraph at lines 266--266
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
@@ -1591,10 +1602,10 @@ Underfull \hbox (badness 1348) in paragraph at lines 266--266
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [27]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
+ [28]
 Overfull \hbox (2.11601pt too wide) in paragraph at lines 326--326
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
@@ -1650,11 +1661,11 @@ LaTeX Warning: File ot151.cmap not found on input line 366.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28])
+ [29])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [30
+ [30]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [31
 
 
 
@@ -1662,15 +1673,18 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [32]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [33]
+Underfull \vbox (badness 4954) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
 ! Undefined control sequence.
-l.102 ...} & \multicolumn{1}{l|}{PRA-10} \bigstrut
+l.106 ...} & \multicolumn{1}{l|}{PRA-10} \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1679,7 +1693,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.104 ...% & 46.91\% & 30.83\% & 31.27\% \bigstrut
+l.108 ...% & 46.91\% & 30.83\% & 31.27\% \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1688,7 +1702,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.106 ...% & 89.62\% & 90.48\% & 92.14\% \bigstrut
+l.110 ...% & 89.62\% & 90.48\% & 92.14\% \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1697,15 +1711,15 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (12.69774pt too wide) in paragraph at lines 100--110
+Overfull \hbox (12.69774pt too wide) in paragraph at lines 104--114
  [][][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [34]
-<figures/many2many.PNG, id=785, 448.67625pt x 290.58563pt>
+ [35]
+<figures/many2many.PNG, id=800, 448.67625pt x 290.58563pt>
 File: figures/many2many.PNG Graphic file (type png)
 
 <use figures/many2many.PNG>
@@ -1714,150 +1728,150 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [35]
-! Undefined control sequence.
-l.181 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.183 ...  & 0.7695  & 0.7451  & 0.6941  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.185 ...  & 0.5571  & 0.4235  & 0.4073  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.187 ...  & 0.9136  & 0.8231  & 0.8228  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.189 ...  & 0.6696  & 0.4632  & 0.3980  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.191 ...  & 0.9583  & 0.9167  & 0.9167  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.193 ...  & 0.7818  & 0.6900  & 0.7506  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.195 ...  & 0.8398  & 0.6500  & 0.6345  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.197 ...  & 0.6931  & 0.3820  & 0.3595  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.199 ...  & 0.8499  & 0.7172  & 0.7901  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.201 ...  & 0.9492  & 0.8613  & 0.8564  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.203 ...  & 0.8752  & 0.8118  & 0.7884  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.205 ...  & 0.7894  & 0.6727  & 0.6896  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.207 ...  & 0.9560  & 0.8541  & 0.8402  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.209 ...  & 0.4659  & 0.4270  & 0.3843  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
+ [36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [36 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/many2many.PNG>])
+ [37 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/many2many.PNG>]
+! Undefined control sequence.
+l.186 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.188 ...  & 0.7695  & 0.7451  & 0.6941  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.190 ...  & 0.5571  & 0.4235  & 0.4073  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.192 ...  & 0.9136  & 0.8231  & 0.8228  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.194 ...  & 0.6696  & 0.4632  & 0.3980  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.196 ...  & 0.9583  & 0.9167  & 0.9167  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.198 ...  & 0.7818  & 0.6900  & 0.7506  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.200 ...  & 0.8398  & 0.6500  & 0.6345  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.202 ...  & 0.6931  & 0.3820  & 0.3595  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.204 ...  & 0.8499  & 0.7172  & 0.7901  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.206 ...  & 0.9492  & 0.8613  & 0.8564  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.208 ...  & 0.8752  & 0.8118  & 0.7884  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.210 ...  & 0.7894  & 0.6727  & 0.6896  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.212 ...  & 0.9560  & 0.8541  & 0.8402  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.214 ...  & 0.4659  & 0.4270  & 0.3843  \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [38
+ [38]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [39
 
 
 
@@ -1865,11 +1879,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39])
+ [40])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [41
+ [41]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [42
 
 
 
@@ -1877,13 +1891,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42]
+ [43]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43])
+ [44])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
+ [45]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
@@ -1894,7 +1908,7 @@ LaTeX Warning: File c709c.cmap not found on input line 15.
 LaTeX Font Info:    Try loading font information for C70+kai on input line 21.
 (D:\CTEX\CTeX\tex\latex\CJK\UTF8\c70kai.fd
 File: c70kai.fd 2009/09/23 4.8.2
-)) [45
+)) [46
 
 
 
@@ -1916,16 +1930,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B522A6E591FFBAA4DA992ACFD1F0F20B;6368.
+(rerunfilecheck)             Checksum: C943AA4BEA09C6533229D1D2889C8166;6217.
  ) 
 Here is how much of TeX's memory you used:
- 15984 strings out of 495362
- 222054 string characters out of 3184024
- 321856 words of memory out of 3000000
- 17841 multiletter control sequences out of 15000+200000
- 165519 words of font info for 488 fonts, out of 3000000 for 9000
+ 16030 strings out of 495362
+ 223126 string characters out of 3184024
+ 323333 words of memory out of 3000000
+ 17868 multiletter control sequences out of 15000+200000
+ 163445 words of font info for 481 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,13n,44p,1920b,2138s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,44p,2013b,2139s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
 imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
 /Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
@@ -1943,54 +1957,58 @@ s/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><D:/CTEX/CTeX/fonts/truetype/ch
 inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fo
 nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
 ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
-f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fon
-ts/enc/dvips/fontname/8r.enc}<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C
-:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tru
-etype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truet
-ype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/
-chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
-:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/tru
-etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
-EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
-simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
-truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
-/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts
-/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
-ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
+f><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}
+<C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C
+:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
+CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
+e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/
+simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/C
+TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
+un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei
+.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
+pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
+CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
+sun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
+indows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.t
+tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/
+simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Window
+s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C
+:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhe
+i.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
+ts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
+dows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype
+/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
 C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
 ei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/
-fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
-s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
-onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/C
-TEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Win
-dows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf
-><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
-mhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tr
-uetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/C
-TEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese
-/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/s
-imhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
+fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
+tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype
+/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CT
+eX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsu
+n.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truet
+ype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
+f><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/
+chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTe
+X/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun
+.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
+pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
+CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
 sun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tru
 etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
 EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
 simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
 truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
 /CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
-se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fon
-ts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
-<D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/ch
-inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
-fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
-tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simfang.tt
-f><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts
-/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Wi
-ndows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang
-.ttf><C:/Windows/Fonts/simfang.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.
+se/simsun.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/W
+indows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfan
+g.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/F
+onts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><D
+:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chin
+ese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fo
+nts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
+><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/c
+hinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX
+/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.
 ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetyp
 e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
 TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
@@ -2006,21 +2024,16 @@ D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chi
 nese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/f
 onts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.tt
 f><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/
-chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTe
-X/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun
-.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
-CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
-sun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/MiKTeX/fonts/t
-ype1/public/txfonts/rtxmi.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxr.p
-fb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb><D:/CTEX/MiKTeX/fonts/ty
-pe1/public/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pf
-b><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/typ
-e1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CT
-EX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (51 pages, 1091294 bytes).
+chinese/simsun.ttf><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/rtxmi.pfb><D:/CTE
+X/MiKTeX/fonts/type1/public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type1/public
+/txfonts/txex.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><D:/CTEX/
+MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKT
+eX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri
+8a.pfb>
+Output written on main.pdf (52 pages, 1094474 bytes).
 PDF statistics:
- 1492 PDF objects out of 1728 (max. 8388607)
- 183 named destinations out of 1000 (max. 500000)
+ 1497 PDF objects out of 1728 (max. 8388607)
+ 192 named destinations out of 1000 (max. 500000)
  711 words of extra memory for PDF output out of 10000 (max. 10000000)
 
