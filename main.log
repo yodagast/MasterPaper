@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  11 APR 2018 20:49
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  11 APR 2018 22:40
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1569,14 +1569,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [23]
 Underfull \hbox (badness 6658) in paragraph at lines 130--137
 []\C70/song/bx/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e -
- \C70/song/m/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e 
-†\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebase
-\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e 
-“ \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/57 ú \C70/song/m/n/12.045/67 
-, \C70/song/bx/n/12.045/65 p \C70/song/bx/n/12.045/63 n \C70/song/m/n/12.045/60
- Å \C70/song/bx/n/12.045/51 µ \C70/song/m/n/12.045/30  \C70/song/bx/n/12.045/6
-2  \C70/song/bx/n/12.045/4e ì \C70/song/m/n/12.045/90 	 \C70/song/bx/n/12.045/
-62 é
+ \C70/song/bx/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e
+ †\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebas
+e\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e
+ “ \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/57 ú \C70/song/m/n/12.045/67
+ , \C70/song/bx/n/12.045/65 p \C70/song/bx/n/12.045/63 n \C70/song/bx/n/12.045/
+60 Å \C70/song/bx/n/12.045/51 µ \C70/song/m/n/12.045/30  \C70/song/bx/n/12.045
+/62  \C70/song/bx/n/12.045/4e ì \C70/song/m/n/12.045/90 	 \C70/song/bx/n/12.04
+5/62 é
  []
 
 
@@ -1933,10 +1933,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: C943AA4BEA09C6533229D1D2889C8166;6217.
  ) 
 Here is how much of TeX's memory you used:
- 16030 strings out of 495362
- 223126 string characters out of 3184024
- 323333 words of memory out of 3000000
- 17868 multiletter control sequences out of 15000+200000
+ 16041 strings out of 495362
+ 223354 string characters out of 3184024
+ 323436 words of memory out of 3000000
+ 17875 multiletter control sequences out of 15000+200000
  163445 words of font info for 481 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,2013b,2139s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2031,7 +2031,7 @@ MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/hel
 vetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKT
 eX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on main.pdf (52 pages, 1094474 bytes).
+Output written on main.pdf (52 pages, 1094758 bytes).
 PDF statistics:
  1497 PDF objects out of 1728 (max. 8388607)
  192 named destinations out of 1000 (max. 500000)
