@@ -53,7 +53,7 @@ Michel Dumontier, Alison Callahan, Jose Cruz-Toledo, et~al.
 \newblock Bio2RDF Release 3: A Larger Connected Network of Linked Data for the
   Life Sciences[C].
 \newblock Proceedings of Proceedings of the 2014 International Conference on
-  Posters \&\#38; Demonstrations Track - Volume 1272, Aachen, Germany, Germany:
+  Posters; Demonstrations Track - Volume 1272, Aachen, Germany, Germany:
   CEUR-WS.org, 2014.
 \newblock  401--404.
 
@@ -274,8 +274,7 @@ Luis~Antonio Gal\'{a}rraga, Christina Teflioudi, Katja Hose, et~al.
 
 \bibitem{Galrraga2015FastRM}
 Luis Gal{\'a}rraga, Christina Teflioudi, Katja Hose, et~al.
-\newblock Fast rule mining in ontological knowledge bases with AMIE \$\$+\$\$
-  +[J].
+\newblock Fast rule mining in ontological knowledge bases with AMIE \+[J].
 \newblock The VLDB Journal, 2015, 24:707--730.
 
 \bibitem{Wang2015RDF2RulesLR}
