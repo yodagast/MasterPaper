@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  15 APR 2018 09:47
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  15 APR 2018 10:11
 entering extended mode
 **main
 (E:\研究生毕业论文\masterPaper\main.tex
@@ -1580,7 +1580,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
 
-LaTeX Warning: File ot152.cmap not found on input line 177.
+LaTeX Warning: File ot152.cmap not found on input line 178.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1592,7 +1592,7 @@ Underfull \vbox (badness 1442) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
-Underfull \hbox (badness 1348) in paragraph at lines 272--272
+Underfull \hbox (badness 1348) in paragraph at lines 273--273
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
 .04124 diedIn $\OMS/txsy/m/n/11.04124 !$
@@ -1605,12 +1605,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-Overfull \hbox (2.11601pt too wide) in paragraph at lines 332--332
+Overfull \hbox (2.11601pt too wide) in paragraph at lines 333--333
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
 
 
-Overfull \hbox (21.75761pt too wide) in paragraph at lines 326--362
+Overfull \hbox (21.75761pt too wide) in paragraph at lines 327--363
  [][][] 
  []
 
@@ -1618,7 +1618,7 @@ Overfull \hbox (21.75761pt too wide) in paragraph at lines 326--362
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7832) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1681,7 +1681,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-<figures/many2many.PNG, id=816, 448.67625pt x 290.58563pt>
+<figures/many2many.PNG, id=816, 347.79938pt x 206.27063pt>
 File: figures/many2many.PNG Graphic file (type png)
 
 <use figures/many2many.PNG>
@@ -1894,7 +1894,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  16030 strings out of 495362
  223164 string characters out of 3184024
- 322292 words of memory out of 3000000
+ 322364 words of memory out of 3000000
  17874 multiletter control sequences out of 15000+200000
  164541 words of font info for 482 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
@@ -1990,7 +1990,7 @@ MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/hel
 vetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKT
 eX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on main.pdf (54 pages, 1102492 bytes).
+Output written on main.pdf (54 pages, 1085350 bytes).
 PDF statistics:
  1512 PDF objects out of 1728 (max. 8388607)
  195 named destinations out of 1000 (max. 500000)
