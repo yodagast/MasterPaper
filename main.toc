@@ -39,4 +39,5 @@
 \contentsline {section}{\numberline {5.1}论文工作总结}{41}{section.5.1}
 \contentsline {section}{\numberline {5.2}未来研究展望}{42}{section.5.2}
 \contentsline {chapter}{参考文献}{44}{section*.37}
-\contentsline {chapter}{致谢}{48}{section*.40}
+\contentsline {chapter}{学术成果}{48}{section*.40}
+\contentsline {chapter}{致谢}{49}{section*.43}

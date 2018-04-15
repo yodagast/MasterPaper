@@ -5,6 +5,7 @@ A level-1 auxiliary file: data/chap-feature.aux
 A level-1 auxiliary file: data/chap-rank.aux
 A level-1 auxiliary file: data/chap-summary.aux
 The style file: bnubib.bst
+A level-1 auxiliary file: data/paper.aux
 A level-1 auxiliary file: data/ack.aux
 Database file #1: ref/refs.bib
 I was expecting a `,' or a `}'---line 180 of file ref/refs.bib

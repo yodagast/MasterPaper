@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  15 APR 2018 10:11
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  15 APR 2018 21:56
 entering extended mode
 **main
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -929,6 +929,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.aux)
+(E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/paper.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.aux))
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 17.
 LaTeX Font Info:    Try loading font information for OML+txmi on input line 17.
@@ -1102,7 +1103,7 @@ File: c70song.fd 2009/09/23 4.8.2
 LaTeX Warning: File c7030.cmap not found on input line 17.
 
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/cover.tex)
-<figures/BNU_name.pdf, id=181, 461.725pt x 124.465pt>
+<figures/BNU_name.pdf, id=185, 461.725pt x 124.465pt>
 File: figures/BNU_name.pdf Graphic file (type pdf)
 
 <use figures/BNU_name.pdf>
@@ -1384,10 +1385,10 @@ LaTeX Warning: File c708a.cmap not found on input line 4.
 
 ]
 
-LaTeX Warning: File c7081.cmap not found on input line 42.
+LaTeX Warning: File c7081.cmap not found on input line 43.
 
 
-LaTeX Warning: File c708c.cmap not found on input line 42.
+LaTeX Warning: File c708c.cmap not found on input line 43.
 
 )
 \tf@toc=\write4
@@ -1418,7 +1419,7 @@ LaTeX Warning: File c7082.cmap not found on input line 25.
 
 
 
-] <figures/kb2.PNG, id=484, 510.40688pt x 374.90062pt>
+] <figures/kb2.PNG, id=490, 510.40688pt x 374.90062pt>
 File: figures/kb2.PNG Graphic file (type png)
  <use figures/kb2.PNG>
 
@@ -1469,7 +1470,7 @@ LaTeX Warning: File c7092.cmap not found on input line 203.
 
 LaTeX Warning: File c7069.cmap not found on input line 209.
 
-<figures/intro.PNG, id=530, 227.34938pt x 213.79875pt>
+<figures/intro.PNG, id=535, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1535,7 +1536,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.tex
-<figures/literal-relation-compute.PNG, id=692, 310.66063pt x 322.20375pt>
+<figures/literal-relation-compute.PNG, id=697, 310.66063pt x 322.20375pt>
 File: figures/literal-relation-compute.PNG Graphic file (type png)
 
 <use figures/literal-relation-compute.PNG> [19
@@ -1553,7 +1554,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<figures/frame1.PNG, id=715, 151.56625pt x 100.87688pt>
+<figures/frame1.PNG, id=720, 151.56625pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
 <use figures/frame1.PNG>
@@ -1681,7 +1682,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [37]
-<figures/many2many.PNG, id=816, 347.79938pt x 206.27063pt>
+<figures/many2many.PNG, id=821, 347.79938pt x 206.27063pt>
 File: figures/many2many.PNG Graphic file (type png)
 
 <use figures/many2many.PNG>
@@ -1857,7 +1858,26 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
-(E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.tex
+(E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/paper.tex
+Underfull \hbox (badness 1077) in paragraph at lines 7--8
+[]\C70/song/m/n/12.045/9e Ä \C70/song/bx/n/12.045/52 Ç \C70/song/bx/n/12.045/ff
+  \C70/song/bx/n/12.045/73 ‹ \C70/song/bx/n/12.045/5f × \C70/song/m/n/12.045/6
+6 %\OT1/txr/m/n/12.045 . \C70/song/bx/n/12.045/57 ú \C70/song/bx/n/12.045/4e  
+\C70/song/bx/n/12.045/5b f \C70/song/bx/n/12.045/4e ` \C70/song/bx/n/12.045/63 
+’ \C70/song/bx/n/12.045/5e  \C70/song/bx/n/12.045/7b — \C70/song/bx/n/12.045/6
+c Õ \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/
+8b Æ \C70/song/bx/n/12.045/5e “ \C70/song/bx/n/12.045/88 e \C70/song/bx/n/12.04
+5/51 h \C70/song/bx/n/12.045/65 ¹ \C70/song/bx/n/12.045/6c Õ \C70/song/bx/n/12.
+045/53 Ê \C70/song/bx/n/12.045/88 Å \C70/song/bx/n/12.045/7f n \OT1/txr/m/n/12.
+045 (\C70/song/bx/n/12.045/4e  \C70/song/bx/n/12.045/52 )
+ []
+
+) [48
+
+
+
+
+] (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
 
@@ -1867,7 +1887,8 @@ LaTeX Warning: File c709c.cmap not found on input line 15.
 LaTeX Font Info:    Try loading font information for C70+kai on input line 21.
 (D:\CTEX\CTeX\tex\latex\CJK\UTF8\c70kai.fd
 File: c70kai.fd 2009/09/23 4.8.2
-)) [48
+)) [49
+
 
 
 
@@ -1886,17 +1907,18 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.aux)
+(E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/paper.aux)
 (E:\ÑĞ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0A89A01D14F9036F16AE6D927970E3BF;6435.
+(rerunfilecheck)             Checksum: D0833A3F696F9AB5BCF6DF9A3FCF688A;6522.
  ) 
 Here is how much of TeX's memory you used:
- 16030 strings out of 495362
- 223164 string characters out of 3184024
- 322364 words of memory out of 3000000
- 17874 multiletter control sequences out of 15000+200000
- 164541 words of font info for 482 fonts, out of 3000000 for 9000
+ 16060 strings out of 495362
+ 223756 string characters out of 3184024
+ 323747 words of memory out of 3000000
+ 17888 multiletter control sequences out of 15000+200000
+ 165129 words of font info for 484 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,2013b,2140s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
@@ -1921,13 +1943,13 @@ f><C:/Windows/Fonts/simhei.ttf>{D:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}
 :/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
 CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chines
 e/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/
-simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/C
-TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
-un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei
-.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truety
-pe/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/
-CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sim
-sun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/si
+msun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/tr
+uetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/true
+type/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTE
+X/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/s
+imsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/sim
+hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
 onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
 indows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.t
 tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/
@@ -1990,9 +2012,9 @@ MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/hel
 vetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKT
 eX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri
 8a.pfb>
-Output written on main.pdf (54 pages, 1085350 bytes).
+Output written on main.pdf (55 pages, 1089363 bytes).
 PDF statistics:
- 1512 PDF objects out of 1728 (max. 8388607)
- 195 named destinations out of 1000 (max. 500000)
- 719 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1529 PDF objects out of 1728 (max. 8388607)
+ 203 named destinations out of 1000 (max. 500000)
+ 727 words of extra memory for PDF output out of 10000 (max. 10000000)
 
