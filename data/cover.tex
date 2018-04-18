@@ -28,7 +28,7 @@
 
 % 定义中英文摘要和关键字
 \begin{cabstract}
-  知识库通常从非结构化、半结构化的数据中抽取事实，构建结构化的知识，常用三元组进行存储表示。知识库在信息检索、问答系统和人工智能等多个不同领域具有重要作用，尽管当前有很多大规模知识库如Freebase、YAGO包含大量三元组，但这些知识库中的三元组是不完备的，很多实体对之间的关系存在缺失。 
+  知识库通常从非结构化、半结构化的数据中抽取事实，构建结构化的知识，常用三元组进行存储表示。知识库在信息检索、问答系统和人工智能等不同领域具有重要作用，尽管当前有很多大规模知识库如Freebase、YAGO包含大量三元组，但这些知识库中的三元组是不完备的，很多实体对之间的关系存在缺失。 
   知识库补全基于现有知识库的三元组，预测知识库中实体和实体之间的关系。
   当前的知识库补全算法主要包括基于符号逻辑的知识库补全算法和基于表示学习的知识库补全算法，
   其中一种典型的基于符号逻辑的知识库补全算法是\textbf{路径排序算法}。路径排序算法抽取
@@ -55,19 +55,17 @@ PRA takes the relation prediction as a classification problem, and
 logistic regression or SVM is used as the classification model. In this paper, we
 consider the relation prediction as a ranking problem, learning to rank
 model is trained on relations to predict new facts. Besides, our model
-use both literal and relational facts as feature matrix， which is much more comprehensive. We propose to extract literal features from
-literal facts, and incorporate them with path-based
+use both literal and relational facts as feature matrix， which is much more comprehensive. We propose to extract literal features from literal facts, and incorporate them with path-based
 features extracted from relational facts; predictive
 model is then trained to infer new
-facts with assembly features and bring higher precision scores in classification metrics and other ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using
-relational features and classification models.
+facts with assembly features and bring higher precision scores in classification metrics and other ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using relational features and classification models.
 This paper has three main contribution, including:
 \begin{itemize}[$\bullet$]
-    \item KB completion feature type is much more comprehensive, we use both literal and relational facts to generate feature matrix, and in different KBs our features help to generate higher scores both in ranking tasks and classification tasks.
+    \item KB completion feature type is comprehensive including both relational path and literal features to generate feature matrix, and in different KBs our features help to generate higher scores both in ranking tasks and classification tasks.
     \item KB completion was considered as a ranking method, we use learning to ranking model to rank entity pairs rather than simple taking it as a classification model.
-    \item KB completion methods are easily explainable, with combined literal and relational facts we can easily predict relation in KBs, other deep neural network models and tree models are used with assembly features.
+    \item KB completion methods are easily explainable, with combined literal and relational facts we can easily predict relation in KBs, tree models are used with assembly features, this helps us to rank entity pairs in different.
   \end{itemize}
 
 \end{eabstract}
 
-\ekeywords{Knowledge Base Completion, Learning to Rank, PRA, symbolic model}
+\ekeywords{Knowledge Base Completion, Learning to Rank, Path Ranking, Relational Path}
