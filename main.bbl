@@ -73,6 +73,11 @@ Gerhard Weikum, Martin Theobald.
   from web sources[C].
 \newblock Proceedings of PODS, 2010.
 
+\bibitem{Vrandecic2014WikidataAF}
+Denny Vrandecic, Markus Kr{\"o}tzsch.
+\newblock Wikidata: a free collaborative knowledgebase[J].
+\newblock Commun. ACM, 2014, 57:78--85.
+
 \bibitem{Kasneci2008TheYA}
 Gjergji Kasneci, Maya Ramanath, Fabian~M. Suchanek, et~al.
 \newblock The YAGO-NAGA approach to knowledge discovery[J].

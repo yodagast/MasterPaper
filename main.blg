@@ -8,12 +8,10 @@ The style file: bnubib.bst
 A level-1 auxiliary file: data/paper.aux
 A level-1 auxiliary file: data/ack.aux
 Database file #1: ref/refs.bib
-I was expecting a `,' or a `}'---line 180 of file ref/refs.bib
- : 
- : @inproceedings{Weikum2010FromIT,
-(Error may have been on previous line)
+Repeated entry---line 180 of file ref/refs.bib
+ : @article{Vrandecic2014WikidataAF
+ :                                 ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Mitraka2015WikidataAP"
 Warning--empty booktitle in Yao2014FreebaseQI
 Warning--empty booktitle in HERMJAKOB2000KnowledgeBasedQA
 Warning--empty booktitle in KeySun2016OpenKB

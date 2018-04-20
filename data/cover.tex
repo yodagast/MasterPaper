@@ -50,15 +50,15 @@
 Knowledge base (KB) completion aims to predict new facts
 from the existing ones in KBs. There are many KB completion approaches,
 one of the state-of-art approaches is Path Ranking Algorithm
-(PRA), which predicts new facts based on path types connecting entities.
+(PRA), which predicts new facts based on relational path types connecting entities.
 PRA takes the relation prediction as a classification problem, and
-logistic regression or SVM is used as the classification model. In this paper, we
+logistic regression or SVM is used as the classification model. In this paper, our model
+use both literal facts and relational path types as feature matrix, which is much more comprehensive and complicated. We
 consider the relation prediction as a ranking problem, learning to rank
-model is trained on relations to predict new facts. Besides, our model
-use both literal and relational facts as feature matrix， which is much more comprehensive. We propose to extract literal features from literal facts, and incorporate them with path-based
+model is trained on relations to predict new facts. Besides. We propose to extract literal features from literal facts, and incorporate them with path-based
 features extracted from relational facts; predictive
 model is then trained to infer new
-facts with assembly features and bring higher precision scores in classification metrics and other ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using relational features and classification models.
+facts with assembly features and bring higher precision scores in classification metrics and ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using relational path features and classification models.
 This paper has three main contribution, including:
 \begin{itemize}[$\bullet$]
     \item KB completion feature type is comprehensive including both relational path and literal features to generate feature matrix, and in different KBs our features help to generate higher scores both in ranking tasks and classification tasks.
