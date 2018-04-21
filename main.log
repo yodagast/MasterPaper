@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  20 APR 2018 20:07
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  21 APR 2018 10:57
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1559,9 +1559,6 @@ File: figures/literal-relation-compute.PNG Graphic file (type png)
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [21 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1576,7 +1573,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \hbox (badness 6658) in paragraph at lines 137--144
+
+LaTeX Warning: File ot188.cmap not found on input line 142.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25]
+Underfull \hbox (badness 6658) in paragraph at lines 142--149
 []\C70/song/bx/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e -
  \C70/song/bx/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e
  †\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebas
@@ -1591,21 +1595,14 @@ e\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-
-LaTeX Warning: File ot152.cmap not found on input line 179.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [26]
-Underfull \vbox (badness 1442) has occurred while \output is active []
+Underfull \vbox (badness 3417) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Underfull \hbox (badness 1348) in paragraph at lines 274--274
+Underfull \hbox (badness 1348) in paragraph at lines 279--279
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
 .04124 diedIn $\OMS/txsy/m/n/11.04124 !$
@@ -1618,12 +1615,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Overfull \hbox (2.11601pt too wide) in paragraph at lines 334--334
+Overfull \hbox (2.11601pt too wide) in paragraph at lines 339--339
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
 
 
-Overfull \hbox (21.75761pt too wide) in paragraph at lines 328--364
+Overfull \hbox (21.75761pt too wide) in paragraph at lines 333--369
  [][][] 
  []
 
@@ -1631,9 +1628,6 @@ Overfull \hbox (21.75761pt too wide) in paragraph at lines 328--364
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [30]
-Underfull \vbox (badness 7832) has occurred while \output is active []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [31])
@@ -1920,16 +1914,16 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 62B394E788D21094887D9EFDD5455FD0;6522.
+(rerunfilecheck)             Checksum: 0539EAE45E18BA3B5DDBC855FF43050E;6506.
  ) 
 Here is how much of TeX's memory you used:
- 15850 strings out of 495362
- 220467 string characters out of 3184024
- 323816 words of memory out of 3000000
- 17755 multiletter control sequences out of 15000+200000
+ 15859 strings out of 495362
+ 220627 string characters out of 3184024
+ 326994 words of memory out of 3000000
+ 17762 multiletter control sequences out of 15000+200000
  152692 words of font info for 446 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,13n,44p,1765b,2142s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,44p,1765b,2141s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
@@ -2007,7 +2001,7 @@ pe1/public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb
 1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
 <D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/ur
 w/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (56 pages, 1026539 bytes).
+Output written on main.pdf (56 pages, 1028143 bytes).
 PDF statistics:
  1395 PDF objects out of 1440 (max. 8388607)
  208 named destinations out of 1000 (max. 500000)
