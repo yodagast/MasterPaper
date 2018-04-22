@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  21 APR 2018 10:57
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  22 APR 2018 15:08
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1393,113 +1393,95 @@ LaTeX Warning: File c708c.cmap not found on input line 43.
 )
 \tf@toc=\write4
  [4] (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-intro.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 \usepackage
-               {float}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
-
-
-]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 13.34981pt on input line 13.
+(Font)              scaled to size 13.34981pt on input line 11.
 
 
-LaTeX Warning: File c7055.cmap not found on input line 19.
+LaTeX Warning: File c7055.cmap not found on input line 17.
 
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 23.
 (D:\CTEX\MiKTeX\tex\latex\txfonts\omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <8.43146> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 23.
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <9.03374> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 25.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 23.
 
 
-LaTeX Warning: File c7087.cmap not found on input line 27.
+LaTeX Warning: File c7087.cmap not found on input line 25.
 
 
-LaTeX Warning: File c7082.cmap not found on input line 27.
+LaTeX Warning: File c7082.cmap not found on input line 25.
 
 
-LaTeX Warning: File c709c.cmap not found on input line 32.
+LaTeX Warning: File c709c.cmap not found on input line 30.
 
-[2
+[1
 
 
-] <figures/kb.PNG, id=495, 379.91937pt x 297.61188pt>
+
+
+] <figures/kb.PNG, id=491, 379.91937pt x 297.61188pt>
 File: figures/kb.PNG Graphic file (type png)
  <use figures/kb.PNG>
 
-LaTeX Warning: File c706f.cmap not found on input line 43.
+LaTeX Warning: File c706f.cmap not found on input line 41.
 
 
-LaTeX Warning: File c7085.cmap not found on input line 43.
+LaTeX Warning: File c7085.cmap not found on input line 41.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/kb.PNG>]
+ [2 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/kb.PNG>]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 12.39626pt on input line 45.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 51
+(Font)              scaled to size 12.39626pt on input line 43.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 49
 .
 
-Overfull \hbox (35.0623pt too wide) in paragraph at lines 51--101
+Overfull \hbox (35.0623pt too wide) in paragraph at lines 49--99
  [][][] 
  []
 
 
-LaTeX Warning: File c7094.cmap not found on input line 105.
+LaTeX Warning: File c7094.cmap not found on input line 103.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [3]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [4]
+
+LaTeX Warning: File c7099.cmap not found on input line 126.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 
-LaTeX Warning: File c7099.cmap not found on input line 128.
+LaTeX Warning: File c7092.cmap not found on input line 203.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-
-LaTeX Warning: File c7092.cmap not found on input line 205.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-<figures/intro.PNG, id=541, 227.34938pt x 213.79875pt>
+<figures/intro.PNG, id=536, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [8 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/intro.PNG>])
+ [7 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/intro.PNG>])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
+ [8]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-relatedwork.tex
 
 LaTeX Warning: File c709f.cmap not found on input line 22.
 
-[10
+[9
 
 
 
@@ -1514,44 +1496,44 @@ LaTeX Warning: File ot177.cmap not found on input line 79.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [10]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [12]
+ [11]
 
 LaTeX Warning: File c706e.cmap not found on input line 96.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
 
 LaTeX Warning: File c7069.cmap not found on input line 195.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [16]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [17])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [19]
+ [18]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-feature.tex
-<figures/literal-relation-compute.PNG, id=706, 310.66063pt x 322.20375pt>
+<figures/literal-relation-compute.PNG, id=701, 310.66063pt x 322.20375pt>
 File: figures/literal-relation-compute.PNG Graphic file (type png)
 
-<use figures/literal-relation-compute.PNG> [20
+<use figures/literal-relation-compute.PNG> [19
 
 
 
@@ -1559,28 +1541,24 @@ File: figures/literal-relation-compute.PNG Graphic file (type png)
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [21 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
+ [20 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/literal-relation-compute.PNG>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
-<figures/frame1.PNG, id=728, 151.56625pt x 100.87688pt>
+ [21]
+<figures/frame1.PNG, id=724, 151.56625pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
 <use figures/frame1.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/frame1.PNG>]
+ [22 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/frame1.PNG>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-
-LaTeX Warning: File ot188.cmap not found on input line 142.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [25]
-Underfull \hbox (badness 6658) in paragraph at lines 142--149
+Underfull \hbox (badness 6658) in paragraph at lines 139--146
 []\C70/song/bx/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e -
  \C70/song/bx/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e
  †\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebas
@@ -1595,14 +1573,14 @@ e\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26]
+ [25]
 Underfull \vbox (badness 3417) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27]
-Underfull \hbox (badness 1348) in paragraph at lines 279--279
+ [26]
+Underfull \hbox (badness 1348) in paragraph at lines 276--276
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
 .04124 diedIn $\OMS/txsy/m/n/11.04124 !$
@@ -1611,30 +1589,33 @@ Underfull \hbox (badness 1348) in paragraph at lines 279--279
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [28]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [29]
-Overfull \hbox (2.11601pt too wide) in paragraph at lines 339--339
+Overfull \hbox (2.11601pt too wide) in paragraph at lines 336--336
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
 
 
-Overfull \hbox (21.75761pt too wide) in paragraph at lines 333--369
+Overfull \hbox (21.75761pt too wide) in paragraph at lines 330--366
  [][][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30]
+ [30])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [33
+ [31]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-rank.tex [32
 
 
 
@@ -1642,13 +1623,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [36]
 ! Undefined control sequence.
 l.114 ...} & \multicolumn{1}{l|}{PRA-10} \bigstrut
                                                   \\
@@ -1684,17 +1665,17 @@ Overfull \hbox (12.69774pt too wide) in paragraph at lines 112--122
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
+ [36]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
-<figures/many2many.PNG, id=829, 305.64188pt x 169.13188pt>
+ [37]
+<figures/many2many.PNG, id=825, 305.64188pt x 169.13188pt>
 File: figures/many2many.PNG Graphic file (type png)
 
 <use figures/many2many.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/many2many.PNG>]
+ [38 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/many2many.PNG>]
 ! Undefined control sequence.
 l.194 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
                                                   \\
@@ -1833,11 +1814,11 @@ and I'll forget about whatever was undefined.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [40]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [41]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [42
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/chap-summary.tex [41
 
 
 
@@ -1845,22 +1826,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [43])
+ [42])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [44]
-(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [45
+ [43]
+(E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.bbl [44
 
 
 
 
 ]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [46]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [47]
 ! Undefined control sequence.
 l.282 ... ontological knowledge bases with AMIE \+
                                                   [J].
@@ -1873,7 +1854,7 @@ and I'll forget about whatever was undefined.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
+ [47]
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\data/paper.tex
 ! Misplaced alignment tab character &.
 l.7 ...dding for Entity Linking. JIST (Workshops &
@@ -1885,7 +1866,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [49
+) [48
 
 
 
@@ -1894,7 +1875,7 @@ might try typing `S' now just to see what is salvageable.
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
 
-) [50
+) [49
 
 
 
@@ -1917,10 +1898,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 0539EAE45E18BA3B5DDBC855FF43050E;6506.
  ) 
 Here is how much of TeX's memory you used:
- 15859 strings out of 495362
- 220627 string characters out of 3184024
- 326994 words of memory out of 3000000
- 17762 multiletter control sequences out of 15000+200000
+ 15850 strings out of 495362
+ 220485 string characters out of 3184024
+ 326934 words of memory out of 3000000
+ 17759 multiletter control sequences out of 15000+200000
  152692 words of font info for 446 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
  51i,13n,44p,1765b,2141s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2001,9 +1982,9 @@ pe1/public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb
 1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
 <D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/ur
 w/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (56 pages, 1028143 bytes).
+Output written on main.pdf (55 pages, 1027055 bytes).
 PDF statistics:
- 1395 PDF objects out of 1440 (max. 8388607)
- 208 named destinations out of 1000 (max. 500000)
+ 1391 PDF objects out of 1440 (max. 8388607)
+ 207 named destinations out of 1000 (max. 500000)
  727 words of extra memory for PDF output out of 10000 (max. 10000000)
 

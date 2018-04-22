@@ -111,7 +111,9 @@ $$F(x_i|w,c)=\sum_{i=1}^K\alpha_i\pi(f_i)+\sum_{i=1}^Nl(f_i(x),f'_i(x))+\frac{C}
   \caption{基于学习排序的YAGO知识库补全评价结果}
     \begin{tabular}{|l|r|r|r|r|r|r|r|r|}
     \hline
-          & \multicolumn{1}{l|}{rankSFE-4} & \multicolumn{1}{l|}{rankPRA-4} & \multicolumn{1}{l|}{SFE-4} & \multicolumn{1}{l|}{PRA-4} & \multicolumn{1}{l|}{rankSFE-10} & \multicolumn{1}{l|}{rankPRA-10} & \multicolumn{1}{l|}{SFE-10} & \multicolumn{1}{l|}{PRA-10} \bigstrut\\
+          & \multicolumn{4}{c|}{1：4}      & \multicolumn{4}{c|}{1:10} \bigstrut\\
+    \hline
+          & \multicolumn{1}{l|}{rankSFE} & \multicolumn{1}{l|}{rankPRA} & \multicolumn{1}{l|}{SFE} & \multicolumn{1}{l|}{PRA} & \multicolumn{1}{l|}{rankSFE} & \multicolumn{1}{l|}{rankPRA} & \multicolumn{1}{l|}{SFE} & \multicolumn{1}{l|}{PRA} \bigstrut\\
     \hline
     MAP   & 80.68\% & 80.06\% & 70.31\% & 69.35\% & 47.33\% & 46.91\% & 30.83\% & 31.27\% \bigstrut\\
     \hline
@@ -121,7 +123,8 @@ $$F(x_i|w,c)=\sum_{i=1}^K\alpha_i\pi(f_i)+\sum_{i=1}^Nl(f_i(x),f'_i(x))+\frac{C}
   \label{tab:kbc-yago-rank}%
 \end{table}%
 
-我们计算了基于YAGO2的总体MAP和MRR进行模型评价的结果。如表\ref{tab:kbc-yago-rank}可以看到基于学习排序的知识库补全技术相比传统的路径排序算法在MAP上有很大的提升，
+
+我们计算了基于YAGO2的总体MAP和MRR进行模型评价的结果。如表\ref{tab:kbc-yago-rank}可以看到在正负比例为1：4和1：10的不同比例下，模型的MAP预测指标变化较大，而MRR指标都超过80\%。具体分析来说基于学习排序的知识库补全技术相比传统的路径排序算法在MAP上有很大的提升，
 在正负实体对比例为1：10的情况下，
 基于学习排序的算法相比传统的算法在YAGO2数据集上有近50\%的效果提升；而四种方法在MRR指标上效果相当，
 基于学习排序算法的MRR并未比传统路径排序算法有显著下降。
