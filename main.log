@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  22 APR 2018 15:08
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  25 APR 2018 10:17
 entering extended mode
 **main
 (E:\ÑÐ¾¿Éú±ÏÒµÂÛÎÄ\masterPaper\main.tex
@@ -1558,19 +1558,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
-Underfull \hbox (badness 6658) in paragraph at lines 139--146
-[]\C70/song/bx/n/12.045/88 h[]\OT1/txr/m/n/12.045 4[]\C70/song/bx/n/12.045/4e -
- \C70/song/bx/n/12.045/5c U \C70/song/bx/n/12.045/79 : \C70/song/bx/n/12.045/4e
- †\OT1/txr/m/n/12.045 YAGO\C70/song/bx/n/12.045/54 Œ\OT1/txr/m/n/12.045 Freebas
-e\C70/song/bx/n/12.045/77 å \C70/song/bx/n/12.045/8b Æ \C70/song/bx/n/12.045/5e
- “ \C70/song/m/n/12.045/76 „ \C70/song/bx/n/12.045/57 ú \C70/song/m/n/12.045/67
- , \C70/song/bx/n/12.045/65 p \C70/song/bx/n/12.045/63 n \C70/song/bx/n/12.045/
-60 Å \C70/song/bx/n/12.045/51 µ \C70/song/m/n/12.045/30  \C70/song/bx/n/12.045
-/62  \C70/song/bx/n/12.045/4e ì \C70/song/m/n/12.045/90 	 \C70/song/bx/n/12.04
-5/62 é
- []
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [25]
@@ -1631,7 +1618,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
 ! Undefined control sequence.
-l.114 ...} & \multicolumn{1}{l|}{PRA-10} \bigstrut
+l.114 ...    & \multicolumn{4}{c|}{1:10} \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1640,7 +1627,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.116 ...% & 46.91\% & 30.83\% & 31.27\% \bigstrut
+l.116 ...SFE} & \multicolumn{1}{l|}{PRA} \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1649,7 +1636,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.118 ...% & 89.62\% & 90.48\% & 92.14\% \bigstrut
+l.118 ...% & 46.91\% & 30.83\% & 31.27\% \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1657,10 +1644,14 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Overfull \hbox (12.69774pt too wide) in paragraph at lines 112--122
- [][][] 
- []
+! Undefined control sequence.
+l.120 ...% & 89.62\% & 90.48\% & 92.14\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1677,7 +1668,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38 <E:/ÑÐ¾¿Éú±ÏÒµÂÛÎÄ/masterPaper/figures/many2many.PNG>]
 ! Undefined control sequence.
-l.194 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
+l.197 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1686,7 +1677,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.196 ...  & 76.9\%  & 74.5\%  & 69.4\%  \bigstrut
+l.199 ...  & 76.9\%  & 74.5\%  & 69.4\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1695,7 +1686,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.198 ...  & 55.7\%  & 42.3\%  & 40.7\%  \bigstrut
+l.201 ...  & 55.7\%  & 42.3\%  & 40.7\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1704,7 +1695,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.200 ...  & 91.3\%  & 82.3\%  & 82.2\%  \bigstrut
+l.203 ...  & 91.3\%  & 82.3\%  & 82.2\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1713,7 +1704,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.202 ...  & 66.9\%  & 46.3\%  & 39.8\%  \bigstrut
+l.205 ...  & 66.9\%  & 46.3\%  & 39.8\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1722,7 +1713,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.204 ...  & 95.8\%  & 91.6\%  & 91.6\%  \bigstrut
+l.207 ...  & 95.8\%  & 91.6\%  & 91.6\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1731,7 +1722,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.206 ...  & 78.1\%  & 69.0\%  & 75.0\%  \bigstrut
+l.209 ...  & 78.1\%  & 69.0\%  & 75.0\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1740,7 +1731,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.208 ...  & 83.9\%  & 65.0\%  & 63.4\%  \bigstrut
+l.211 ...  & 83.9\%  & 65.0\%  & 63.4\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1749,7 +1740,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.210 ...  & 69.3\%  & 38.2\%  & 35.9\%  \bigstrut
+l.213 ...  & 69.3\%  & 38.2\%  & 35.9\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1758,7 +1749,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.212 ...  & 84.9\%  & 71.7\%  & 79.0\%  \bigstrut
+l.215 ...  & 84.9\%  & 71.7\%  & 79.0\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1767,7 +1758,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.214 ...  & 94.9\%  & 86.1\%  & 85.6\%  \bigstrut
+l.217 ...  & 94.9\%  & 86.1\%  & 85.6\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1776,7 +1767,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.216 ...  & 87.5\%  & 81.1\%  & 78.8\%  \bigstrut
+l.219 ...  & 87.5\%  & 81.1\%  & 78.8\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1785,7 +1776,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.218 ...  & 78.9\%  & 67.2\%  & 68.9\%  \bigstrut
+l.221 ...  & 78.9\%  & 67.2\%  & 68.9\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1794,7 +1785,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.220 ...  & 95.6\%  & 85.4\%  & 84.0\%  \bigstrut
+l.223 ...  & 95.6\%  & 85.4\%  & 84.0\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1803,7 +1794,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
-l.222 ...  & 46.5\%  & 42.7\%  & 38.4\%  \bigstrut
+l.225 ...  & 46.5\%  & 42.7\%  & 38.4\%  \bigstrut
                                                   \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1904,7 +1895,7 @@ Here is how much of TeX's memory you used:
  17759 multiletter control sequences out of 15000+200000
  152692 words of font info for 446 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,13n,44p,1765b,2141s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,44p,1771b,2141s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
@@ -1982,7 +1973,7 @@ pe1/public/txfonts/rtxr.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txex.pfb
 1/public/txfonts/txsyc.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
 <D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/ur
 w/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (55 pages, 1027055 bytes).
+Output written on main.pdf (55 pages, 1028238 bytes).
 PDF statistics:
  1391 PDF objects out of 1440 (max. 8388607)
  207 named destinations out of 1000 (max. 500000)
