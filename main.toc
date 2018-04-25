@@ -8,9 +8,9 @@
 \contentsline {section}{\numberline {1.3}论文研究工作}{5}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}结合关系路径和实体属性的知识库补全}{5}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}基于学习排序模型的知识库补全}{6}{subsection.1.3.2}
-\contentsline {section}{\numberline {1.4}论文组织结构}{7}{section.1.4}
+\contentsline {section}{\numberline {1.4}论文组织结构}{8}{section.1.4}
 \contentsline {chapter}{第\nobreakspace {}2\nobreakspace {}章\hspace {1em} 知识库补全研究现状}{9}{chapter.2}
-\contentsline {section}{\numberline {2.1}知识库构及其应用}{9}{section.2.1}
+\contentsline {section}{\numberline {2.1}知识库构及其应用}{10}{section.2.1}
 \contentsline {section}{\numberline {2.2}基于表示学习的知识库补全}{12}{section.2.2}
 \contentsline {section}{\numberline {2.3}基于关系路径的知识库补全}{14}{section.2.3}
 \contentsline {section}{\numberline {2.4}知识库补全模型评价}{15}{section.2.4}
@@ -24,8 +24,8 @@
 \contentsline {subsubsection}{\numberline {3.2.2.2}关系路径特征向量}{23}{subsubsection.3.2.2.2}
 \contentsline {subsection}{\numberline {3.2.3}实体属性特征计算}{23}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}实验结果}{24}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}YAGO知识库实验}{25}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Freebase知识库实验}{29}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.1}YAGO知识库实验}{26}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Freebase知识库实验}{28}{subsection.3.3.2}
 \contentsline {section}{\numberline {3.4}本章工作总结}{31}{section.3.4}
 \contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 基于学习排序模型的知识库补全}{32}{chapter.4}
 \contentsline {section}{\numberline {4.1}问题引入}{32}{section.4.1}
