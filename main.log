@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  25 APR 2018 17:32
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  29 APR 2018 21:42
 entering extended mode
 **main.tex
 (E:\研究生毕业论文\masterPaper\main.tex
@@ -1488,7 +1488,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [8]
 (E:\研究生毕业论文\masterPaper\data/chap-relatedwork.tex
 
-LaTeX Warning: File c709f.cmap not found on input line 23.
+LaTeX Warning: File c709f.cmap not found on input line 24.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1509,19 +1509,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: File c706e.cmap not found on input line 101.
 
 
-LaTeX Warning: Reference `feature-chi' on page 12 undefined on input line 121.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
 Package hyperref Info: bookmark level for unknown equation defaults to 0 on inp
 ut line 125.
-
-
-LaTeX Warning: Reference `feature-transe' on page 13 undefined on input line 14
-3.
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1533,13 +1525,13 @@ LaTeX Warning: File c705a.cmap not found on input line 174.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
 
 LaTeX Warning: File c7069.cmap not found on input line 222.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [16pdfTeX warning (ext4): destination with the same identifier (name{equation.
@@ -1547,14 +1539,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.261 
-      pdfTeX warning (ext4): destination with the same identifier (name{equatio
-n.2.4.8}) has been already used, duplicate ignored
+l.258 \end{equation}
+                    pdfTeX warning (ext4): destination with the same identifier
+ (name{equation.2.4.8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.261 
-      ]
+l.258 \end{equation}
+                    ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17])
@@ -1567,7 +1559,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<figures/literal-relation-compute.PNG, id=740, 310.66063pt x 322.20375pt>
+<figures/literal-relation-compute.PNG, id=748, 310.66063pt x 322.20375pt>
 File: figures/literal-relation-compute.PNG Graphic file (type png)
 
 <use figures/literal-relation-compute.PNG>
@@ -1577,7 +1569,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<figures/frame1.PNG, id=757, 151.56625pt x 100.87688pt>
+<figures/frame1.PNG, id=765, 151.56625pt x 100.87688pt>
 File: figures/frame1.PNG Graphic file (type png)
 
 <use figures/frame1.PNG>
@@ -1600,10 +1592,230 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
+! Undefined control sequence.
+l.246 ...} & \multicolumn{1}{l|}{transE} \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.248 ....3\% & 71.6\% & 18.0\% & 36.0\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.250 ....8\% & 53.6\% & 41.6\% & 42.4\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.252 ....2\% & 87.9\% & 27.3\% & 37.7\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.254 ....9\% & 59.0\% & 26.4\% & 41.3\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.256 ....2\% & 62.1\% & 41.9\% & 65.2\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.258 ....7\% & 95.7\% & 71.8\% & 92.5\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.260 ....8\% & 95.8\% & 37.5\% & 41.6\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.262 ....9\% & 65.8\% & 55.1\% & 41.8\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.264 ....7\% & 62.4\% & 29.7\% & 64.1\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.266 ....8\% & 54.8\% & 46.0\% & 57.8\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.268 ...0\% & 100.0\% & 43.1\% & 34.3\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.270 ....0\% & 98.1\% & 78.8\% & 89.8\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.272 ....5\% & 79.6\% & 44.2\% & 70.6\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.274 ....3\% & 64.6\% & 60.7\% & 54.3\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.276 ....1\% & 78.0\% & 25.3\% & 48.5\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.278 ....1\% & 94.2\% & 85.4\% & 63.8\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.280 ....8\% & 87.6\% & 88.0\% & 69.3\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.282 ....3\% & 74.8\% & 32.0\% & 50.1\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.284 ...0\% & 100.0\% & 16.9\% & 44.2\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.286 ....1\% & 64.3\% & 35.3\% & 60.1\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.288 ....7\% & 99.6\% & 79.6\% & 91.2\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.290 ....2\% & 94.4\% & 54.1\% & 63.5\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.292 ....8\% & 35.1\% & 30.2\% & 36.8\% \bigstrut
+                                                  \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
-Underfull \hbox (badness 1348) in paragraph at lines 284--284
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28]
+Underfull \hbox (badness 1348) in paragraph at lines 353--353
 []|\OT1/txr/m/n/11.04124 hasAcademicAdvisor $\OMS/txsy/m/n/11.04124 !$ \OT1/txr
 /m/n/11.04124 hasAcademicAdvisor$[]$ $\OMS/txsy/m/n/11.04124 !$ \OT1/txr/m/n/11
 .04124 diedIn $\OMS/txsy/m/n/11.04124 !$
@@ -1612,27 +1824,30 @@ Underfull \hbox (badness 1348) in paragraph at lines 284--284
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28]
+ [29]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-Overfull \hbox (2.11601pt too wide) in paragraph at lines 349--349
+ [30]
+Overfull \hbox (2.11601pt too wide) in paragraph at lines 420--420
 []|\OT1/txr/m/n/11.04124 /film/actor/film/film/performance/film| 
  []
 
 
-Overfull \hbox (21.75761pt too wide) in paragraph at lines 343--379
+Overfull \hbox (21.75761pt too wide) in paragraph at lines 414--450
  [][][] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30])
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [31]
-(E:\研究生毕业论文\masterPaper\data/chap-rank.tex [32
+ [32])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+(E:\研究生毕业论文\masterPaper\data/chap-rank.tex [34
 
 
 
@@ -1640,19 +1855,19 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [35]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [36]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
 ! Undefined control sequence.
 l.131 ...    & \multicolumn{4}{c|}{1:10} \bigstrut
                                                   \\
@@ -1692,14 +1907,17 @@ and I'll forget about whatever was undefined.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [37]
-<figures/many2many.PNG, id=866, 305.64188pt x 169.13188pt>
+ [39]
+<figures/many2many.PNG, id=884, 305.64188pt x 169.13188pt>
 File: figures/many2many.PNG Graphic file (type png)
 
 <use figures/many2many.PNG>
+Underfull \vbox (badness 1546) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38 <E:/研究生毕业论文/masterPaper/figures/many2many.PNG>]
+ [40 <E:/研究生毕业论文/masterPaper/figures/many2many.PNG>]
 ! Undefined control sequence.
 l.211 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
                                                   \\
@@ -1838,11 +2056,11 @@ and I'll forget about whatever was undefined.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [39])
+ [41])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [40]
-(E:\研究生毕业论文\masterPaper\data/chap-summary.tex [41
+ [42]
+(E:\研究生毕业论文\masterPaper\data/chap-summary.tex [43
 
 
 
@@ -1850,24 +2068,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [42])
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43]
-(E:\研究生毕业论文\masterPaper\main.bbl [44
-
-
-
-
-]
+ [44])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [45]
+(E:\研究生毕业论文\masterPaper\main.bbl [46
+
+
+
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46]
+ [47]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [48]
 ! Undefined control sequence.
-l.282 ... ontological knowledge bases with AMIE \+
+l.298 ... ontological knowledge bases with AMIE \+
                                                   [J].
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1878,7 +2096,7 @@ and I'll forget about whatever was undefined.
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [47]
+ [49]
 (E:\研究生毕业论文\masterPaper\data/paper.tex
 ! Misplaced alignment tab character &.
 l.7 ...dding for Entity Linking. JIST (Workshops &
@@ -1890,7 +2108,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-) [48
+) [50
 
 
 
@@ -1899,7 +2117,7 @@ might try typing `S' now just to see what is salvageable.
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
 
-) [49
+) [51
 
 
 
@@ -1919,23 +2137,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
 (E:\研究生毕业论文\masterPaper\data/ack.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 0539EAE45E18BA3B5DDBC855FF43050E;6506.
-
-
-LaTeX Warning: There were undefined references.
+(rerunfilecheck)             Checksum: 042197DC3A7B59BF2FFCAF4724902B3D;6506.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15963 strings out of 495362
- 222272 string characters out of 3184024
- 322930 words of memory out of 3000000
- 17839 multiletter control sequences out of 15000+200000
- 152978 words of font info for 447 fonts, out of 3000000 for 9000
+ 15984 strings out of 495362
+ 222835 string characters out of 3184024
+ 322103 words of memory out of 3000000
+ 17852 multiletter control sequences out of 15000+200000
+ 153574 words of font info for 449 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,15n,44p,1775b,2150s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,15n,44p,1775b,2147s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
@@ -2014,9 +2229,9 @@ blic/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/
 CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw
 /times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiK
 TeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (55 pages, 1044067 bytes).
+Output written on main.pdf (57 pages, 1050154 bytes).
 PDF statistics:
- 1441 PDF objects out of 1728 (max. 8388607)
- 228 named destinations out of 1000 (max. 500000)
+ 1460 PDF objects out of 1728 (max. 8388607)
+ 234 named destinations out of 1000 (max. 500000)
  731 words of extra memory for PDF output out of 10000 (max. 10000000)
 

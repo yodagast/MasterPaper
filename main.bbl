@@ -78,6 +78,11 @@ Denny Vrandecic, Markus Kr{\"o}tzsch.
 \newblock Wikidata: a free collaborative knowledgebase[J].
 \newblock Commun. ACM, 2014, 57:78--85.
 
+\bibitem{Suchanek2007YagoAC}
+Fabian~M. Suchanek, Gjergji Kasneci, Gerhard Weikum.
+\newblock Yago: a core of semantic knowledge[C].
+\newblock Proceedings of WWW, 2007.
+
 \bibitem{Kasneci2008TheYA}
 Gjergji Kasneci, Maya Ramanath, Fabian~M. Suchanek, et~al.
 \newblock The YAGO-NAGA approach to knowledge discovery[J].
@@ -177,6 +182,17 @@ Ethan~J Halpern, Eric~L Gingold, Hugh White, et~al.
   iterative model reconstruction.[J].
 \newblock Academic radiology, 2014, 21 6:805--11.
 
+\bibitem{Liu2005KnowledgebasedQE}
+Zhenyu Liu, Wesley~W. Chu.
+\newblock Knowledge-based query expansion to support scenario-specific
+  retrieval of medical free text[J].
+\newblock Information Retrieval, 2005, 10:173--202.
+
+\bibitem{Burke2000KnowledgebasedRS}
+Robin~D. Burke.
+\newblock Knowledge-based recommender systems[C].
+\newblock 2000.
+
 \bibitem{NIPS2013_5071}
 Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, et~al.
 \newblock Translating Embeddings for Modeling Multi-relational Data[C].
@@ -200,24 +216,6 @@ Maximilian Nickel, Volker Tresp, Hans-Peter Kriegel.
 \newblock {A Three-Way Model for Collective Learning on Multi-Relational
   Data}[J].
 \newblock 28th International Conference on Machine Learning, 2011. 809----816.
-
-\bibitem{Galrraga2013AMIEAR}
-Luis Gal{\'a}rraga, Christina Teflioudi, Katja Hose, et~al.
-\newblock AMIE: association rule mining under incomplete evidence in
-  ontological knowledge bases[C].
-\newblock Proceedings of WWW, 2013.
-
-\bibitem{Lao2010}
-Ni~Lao, William~W. Cohen.
-\newblock {Relational retrieval using a combination of path-constrained random
-  walks}[J].
-\newblock Machine Learning, 2010, 81(1):53--67.
-
-\bibitem{Gardner2015}
-Matt Gardner, Tom Mitchell.
-\newblock {Efficient and Expressive Knowledge Base Completion Using Subgraph
-  Feature Extraction}[J].
-\newblock Proceedings of EMNLP, 2015, (September):1488--1498.
 
 \bibitem{Rendle2010FactorizationM}
 Steffen Rendle.
@@ -249,6 +247,24 @@ Yankai Lin, Zhiyuan Liu, Maosong Sun, et~al.
 Baoxu Shi, Tim Weninger.
 \newblock ProjE: Embedding Projection for Knowledge Graph Completion[C].
 \newblock Proceedings of AAAI, 2017.
+
+\bibitem{Galrraga2013AMIEAR}
+Luis Gal{\'a}rraga, Christina Teflioudi, Katja Hose, et~al.
+\newblock AMIE: association rule mining under incomplete evidence in
+  ontological knowledge bases[C].
+\newblock Proceedings of WWW, 2013.
+
+\bibitem{Lao2010}
+Ni~Lao, William~W. Cohen.
+\newblock {Relational retrieval using a combination of path-constrained random
+  walks}[J].
+\newblock Machine Learning, 2010, 81(1):53--67.
+
+\bibitem{Gardner2015}
+Matt Gardner, Tom Mitchell.
+\newblock {Efficient and Expressive Knowledge Base Completion Using Subgraph
+  Feature Extraction}[J].
+\newblock Proceedings of EMNLP, 2015, (September):1488--1498.
 
 \bibitem{Quinlan1993FOILAM}
 J.~Ross Quinlan, R.~Mike Cameron-Jones.

@@ -25,19 +25,19 @@
 \contentsline {subsection}{\numberline {3.2.3}实体属性特征计算}{23}{subsection.3.2.3}
 \contentsline {section}{\numberline {3.3}实验结果}{24}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}YAGO知识库实验}{26}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Freebase知识库实验}{28}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}本章工作总结}{31}{section.3.4}
-\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 基于学习排序模型的知识库补全}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}问题引入}{32}{section.4.1}
-\contentsline {section}{\numberline {4.2}模型构建}{33}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}实体关系特征计算}{33}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}基于逻辑回归的补全模型}{34}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}基于学习排序的树模型}{35}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}实验结果}{36}{section.4.3}
-\contentsline {section}{\numberline {4.4}本章工作总结}{40}{section.4.4}
-\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{41}{chapter.5}
-\contentsline {section}{\numberline {5.1}论文工作总结}{41}{section.5.1}
-\contentsline {section}{\numberline {5.2}未来研究展望}{42}{section.5.2}
-\contentsline {chapter}{参考文献}{44}{section*.37}
-\contentsline {chapter}{学术成果}{48}{section*.40}
-\contentsline {chapter}{致谢}{49}{section*.43}
+\contentsline {subsection}{\numberline {3.3.2}Freebase知识库实验}{29}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}本章工作总结}{32}{section.3.4}
+\contentsline {chapter}{第\nobreakspace {}4\nobreakspace {}章\hspace {1em} 基于学习排序模型的知识库补全}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}问题引入}{34}{section.4.1}
+\contentsline {section}{\numberline {4.2}模型构建}{35}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}实体关系特征计算}{35}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}基于逻辑回归的补全模型}{36}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}基于学习排序的树模型}{37}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}实验结果}{38}{section.4.3}
+\contentsline {section}{\numberline {4.4}本章工作总结}{42}{section.4.4}
+\contentsline {chapter}{第\nobreakspace {}5\nobreakspace {}章\hspace {1em} 总结和展望}{43}{chapter.5}
+\contentsline {section}{\numberline {5.1}论文工作总结}{43}{section.5.1}
+\contentsline {section}{\numberline {5.2}未来研究展望}{44}{section.5.2}
+\contentsline {chapter}{参考文献}{46}{section*.38}
+\contentsline {chapter}{学术成果}{50}{section*.41}
+\contentsline {chapter}{致谢}{51}{section*.44}
