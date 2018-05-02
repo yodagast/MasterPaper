@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  1 MAY 2018 08:35
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  2 MAY 2018 14:04
 entering extended mode
 **main.tex
 (E:\研究生毕业论文\masterPaper\main.tex
@@ -1198,22 +1198,24 @@ LaTeX Warning: File c707e.cmap not found on input line 24.
 LaTeX Warning: File c7067.cmap not found on input line 24.
 
 
-LaTeX Warning: File c708f.cmap not found on input line 24.
-
-
-LaTeX Warning: File c7074.cmap not found on input line 24.
-
-
 LaTeX Warning: File c7053.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7079.cmap not found on input line 24.
 
 
-LaTeX Warning: File c705d.cmap not found on input line 24.
+LaTeX Warning: File c708f.cmap not found on input line 24.
+
+
+LaTeX Warning: File c7074.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7062.cmap not found on input line 24.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--24
@@ -1259,6 +1261,9 @@ LaTeX Warning: File c7054.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7072.cmap not found on input line 24.
+
+
+LaTeX Warning: File c705d.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7064.cmap not found on input line 24.
@@ -1418,13 +1423,13 @@ LaTeX Warning: File c7087.cmap not found on input line 25.
 LaTeX Warning: File c7082.cmap not found on input line 25.
 
 
-LaTeX Warning: File c709c.cmap not found on input line 30.
+LaTeX Warning: File c709c.cmap not found on input line 32.
 
 
-LaTeX Warning: File c706f.cmap not found on input line 30.
+LaTeX Warning: File c706f.cmap not found on input line 32.
 
 
-LaTeX Warning: File c7085.cmap not found on input line 30.
+LaTeX Warning: File c7085.cmap not found on input line 32.
 
 [1
 
@@ -1438,43 +1443,39 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2 <E:/研究生毕业论文/masterPaper/figures/kb.PNG>]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 12.39626pt on input line 43.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 49
+(Font)              scaled to size 12.39626pt on input line 45.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 51
 .
 
-Overfull \hbox (35.0623pt too wide) in paragraph at lines 49--99
+Overfull \hbox (35.0623pt too wide) in paragraph at lines 51--101
  [][][] 
  []
 
 
-LaTeX Warning: File c7094.cmap not found on input line 103.
+LaTeX Warning: File c7094.cmap not found on input line 105.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-
-LaTeX Warning: File ot157.cmap not found on input line 122.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 
-LaTeX Warning: File c7099.cmap not found on input line 126.
+LaTeX Warning: File c7099.cmap not found on input line 128.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 
-LaTeX Warning: File c7092.cmap not found on input line 203.
+LaTeX Warning: File c7092.cmap not found on input line 205.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-<figures/intro.PNG, id=536, 227.34938pt x 213.79875pt>
+<figures/intro.PNG, id=535, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -2144,13 +2145,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15984 strings out of 495362
- 222835 string characters out of 3184024
- 322103 words of memory out of 3000000
- 17852 multiletter control sequences out of 15000+200000
- 153574 words of font info for 449 fonts, out of 3000000 for 9000
+ 15975 strings out of 495362
+ 222646 string characters out of 3184024
+ 321985 words of memory out of 3000000
+ 17850 multiletter control sequences out of 15000+200000
+ 152681 words of font info for 446 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,15n,44p,1775b,2147s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,15n,44p,1775b,2149s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
@@ -2197,11 +2198,11 @@ etype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CT
 EX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/
 simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/
 truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:
-/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simfang.ttf><C:/
-Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfa
-ng.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/
-Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><
-C:/Windows/Fonts/simfang.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D
+/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chine
+se/simsun.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/W
+indows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfan
+g.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/F
+onts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><C:/Windows/Fonts/simfang.ttf><D
 :/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chin
 ese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fo
 nts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf
@@ -2229,7 +2230,7 @@ blic/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/
 CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw
 /times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiK
 TeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (57 pages, 1050148 bytes).
+Output written on main.pdf (57 pages, 1053872 bytes).
 PDF statistics:
  1460 PDF objects out of 1728 (max. 8388607)
  234 named destinations out of 1000 (max. 500000)

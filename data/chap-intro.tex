@@ -22,7 +22,9 @@ Freebase\cite{Bollacker2008FreebaseAC}，DBpedia\cite{Bizer:2009:DCP:1640541.164
 这类知识库的数据完整性、数据精确性和数据质量等衡量指标非常高，
 已经有很多基于知识库的系统被成功用于商业领域，如谷歌搜索引擎\footnote{https://googleblog.blogspot.com/2012/05/introducing-knowledge-graph-things-not.html}，
 微软的必应搜索\footnote{https://blogs.bing.com/search/2013/03/21/understand-your-world-with-bing/}等。
-除了这些通用领域的知识库之外，也有很多领域知识库被构建和应用，知识库也被用于生物学\cite{Dumontier:2014:BRL:2878453.2878554}、金融学、教育学等各个领域，一些较为成熟的问答系统、个人手机助手如苹果公司的Siri、谷歌公司的谷歌助手（Google Assistant）、微软公司的手机助手小冰、出门问问\footnote{https://www.chumenwenwen.com/}等也将知识库集成其中。
+除了这些通用领域的知识库之外，也有很多领域知识库被构建和应用，知识库也被用于生物学\cite{Dumontier:2014:BRL:2878453.2878554}、金融学、教育学等各个领域，一些较为成熟的问答系统、个人手机助手如苹果公司的Siri、谷歌公司的谷歌助手（Google Assistant）、微软公司的手机助手小冰、%\ref{http://www.msxiaoice.com/}
+出门问问、%\ref{https://www.chumenwenwen.com/}、
+亚马逊公司的Alexa\footnote{https://developer.amazon.com/zh/alexa}等也将知识库集成其中。
 
 常见的知识库可以用有向的属性图进行可视化展示，图\ref{kb}是一个关于北京师范大学的知识库，描述了和北京师范大学相关的实体、属性和关系。图中展示了实体、实体和实体之间关系、实体属性类型、实体属性值等不同的信息，其中实体是描述现实中实际存在的事物、地点、人物、事件，如北京师范大学、北京可以看做是两个表示地点的实体，关系是描述实体和实体之间存在的某种联系和特征，北京师范大学位于北京，则北京师范大学和北京存在着位于的关系，这种关系是一种有方向的关系。除此之外，一个知识库中的三元组还可以分为关系型三元组和实体属性三元组。关系三元组典型的例子如：（北京师范大学，位于，北京），（北京，位于，中国），
 它描述了实体和实体之间的关系，其中“北京师范大学”和“北京”是实体，“位于”是关系。
