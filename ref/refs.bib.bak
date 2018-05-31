@@ -1,3 +1,121 @@
+@inproceedings{Mahdisoltani2015YAGO3AK,
+  title={YAGO3: A Knowledge Base from Multilingual Wikipedias},
+  author={Farzaneh Mahdisoltani and Joanna Biega and Fabian M. Suchanek},
+  booktitle={CIDR},
+  year={2015}
+}
+@inproceedings{Suchanek2007YagoAC,
+  title={Yago: a core of semantic knowledge},
+  author={Fabian M. Suchanek and Gjergji Kasneci and Gerhard Weikum},
+  booktitle={WWW},
+  year={2007}
+}
+@inproceedings{Burke2000KnowledgebasedRS,
+  title={Knowledge-based recommender systems},
+  author={Robin D. Burke},
+  year={2000}
+}
+@article{Liu2005KnowledgebasedQE,
+  title={Knowledge-based query expansion to support scenario-specific retrieval of medical free text},
+  author={Zhenyu Liu and Wesley W. Chu},
+  journal={Information Retrieval},
+  year={2005},
+  volume={10},
+  pages={173-202}
+}
+@article{Meng2017KnowledgeBS,
+  title={Knowledge Base Semantic Integration Using Crowdsourcing},
+  author={Rui Meng and Lei Chen and Yongxin Tong and Chen Jason Zhang},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2017},
+  volume={29},
+  pages={1087-1100}
+}
+@inproceedings{Li2016CommonsenseKB,
+  title={Commonsense Knowledge Base Completion},
+  author={Xiang Li and Aynaz Taheri and Lifu Tu and Kevin Gimpel},
+  booktitle={ACL},
+  year={2016}
+}
+@article{Shenassa2008KnowledgeBE,
+  title={Knowledge base expert system for tuning PID controllers using wireless technology},
+  author={M M Shenassa and K. Khakpour},
+  journal={2008 International Conference on Computer and Communication Engineering},
+  year={2008},
+  pages={310-313}
+}
+@inproceedings{Gao2005KnowledgeBasedIE,
+  title={Knowledge-Based Information Extraction: A Case Study of Recognizing Emails of Nigerian Frauds},
+  author={Yanbin Gao and Gang Zhao},
+  booktitle={NLDB},
+  year={2005}
+}
+@article{Lu2010LinkPI,
+  title={Link Prediction in Complex Networks: A Survey},
+  author={Linyuan Lu and Tao Zhou},
+  journal={CoRR},
+  year={2010},
+  volume={abs/1010.0725}
+}
+
+@inproceedings{Yao2014InformationEO,
+  title={Information Extraction over Structured Data: Question Answering with Freebase},
+  author={Xuchen Yao and Benjamin Van Durme},
+  booktitle={ACL},
+  year={2014}
+}
+@inproceedings{Yao2014FreebaseQI,
+  title={Freebase QA: Information Extraction or Semantic Parsing?},
+  author={Xuchen Yao and Jonathan Berant and Benjamin Van Durme},
+  year={2014}
+}
+@inproceedings{Yao2015LeanQA,
+  title={Lean Question Answering over Freebase from Scratch},
+  author={Xuchen Yao},
+  booktitle={HLT-NAACL},
+  year={2015}
+}
+@article{Vrandecic2014WikidataAF,
+  title={Wikidata: a free collaborative knowledgebase},
+  author={Denny Vrandecic and Markus Kr{\"o}tzsch},
+  journal={Commun. ACM},
+  year={2014},
+  volume={57},
+  pages={78-85}
+}
+@article{Zheng2012EntityDW,
+  title={Entity Disambiguation with Freebase},
+  author={Zhicheng Zheng and Xiance Si and Fangtao Li and Edward Y. Chang and Xiaoyan Zhu},
+  journal={2012 IEEE/WIC/ACM International Conferences on Web Intelligence and Intelligent Agent Technology},
+  year={2012},
+  volume={1},
+  pages={82-89}
+}
+@inproceedings{Bollacker2008FreebaseAC,
+  title={Freebase: a collaboratively created graph database for structuring human knowledge},
+  author={Kurt D. Bollacker and Colin Evans and Praveen Paritosh and Tim Sturge and Jamie Taylor},
+  booktitle={SIGMOD Conference},
+  year={2008}
+}
+@inproceedings{Hoffart2011YAGO2EA,
+  title={YAGO2: exploring and querying world knowledge in time, space, context, and many languages},
+  author={Johannes Hoffart and Fabian M. Suchanek and Klaus Berberich and Edwin Lewis-Kelham and Gerard de Melo and Gerhard Weikum},
+  booktitle={WWW},
+  year={2011}
+}
+@article{Hoffart2013YAGO2AS,
+  title={YAGO2: A spatially and temporally enhanced knowledge base from Wikipedia},
+  author={Johannes Hoffart and Fabian M. Suchanek and Klaus Berberich and Gerhard Weikum},
+  journal={Artif. Intell.},
+  year={2013},
+  volume={194},
+  pages={28-61}
+}
+@inproceedings{Lovsz1993RandomWO,
+  title={Random Walks on Graphs: A Survey},
+  author={L{\'a}szl{\'o} Lov{\'a}sz},
+  year={1993}
+}
 @inproceedings{Lao2015LearningRF,
   title={Learning Relational Features with Backward Random Walks},
   author={Ni Lao and Einat Minkov and William W. Cohen},
@@ -143,7 +261,7 @@
  keywords = {ilp, inductive logic programming, rule mining},
 }
 @article{Galrraga2015FastRM,
-  title={Fast rule mining in ontological knowledge bases with AMIE \$\$+\$\$ +},
+  title={Fast rule mining in ontological knowledge bases with AMIE},
   author={Luis Gal{\'a}rraga and Christina Teflioudi and Katja Hose and Fabian M. Suchanek},
   journal={The VLDB Journal},
   year={2015},
@@ -249,7 +367,7 @@ url = {http://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-mult
   year={2017}
 }
 @article{Nickel2014a,
-abstract = {Tensor factorization has become a popular method for learning from multi-relational data. In this context, the rank of the factorization is an important parame-ter that determines runtime as well as generalization ability. To identify conditions under which factorization is an efficient approach for learning from relational data, we derive upper and lower bounds on the rank required to recover adjacency tensors. Based on our findings, we propose a novel additive tensor factorization model to learn from latent and observable patterns on multi-relational data and present a scalable algorithm for computing the factorization. We show experimentally both that the proposed additive model does improve the predictive performance over pure latent variable methods and that it also reduces the required rank¡ªand therefore runtime and memory complexity¡ªsignificantly.},
+abstract = {Tensor factorization has become a popular method for learning from multi-relational data. In this context, the rank of the factorization is an important parame-ter that determines runtime as well as generalization ability. To identify conditions under which factorization is an efficient approach for learning from relational data, we derive upper and lower bounds on the rank required to recover adjacency tensors. Based on our findings, we propose a novel additive tensor factorization model to learn from latent and observable patterns on multi-relational data and present a scalable algorithm for computing the factorization. We show experimentally both that the proposed additive model does improve the predictive performance over pure latent variable methods and that it also reduces the required rankÂ¡Âªand therefore runtime and memory complexityÂ¡Âªsignificantly.},
 author = {Nickel, Maximilian and Jiang, X and Tresp, V},
 journal = {Nips},
 pages = {1--9},
@@ -328,10 +446,14 @@ pages = {601--610},
 title = {{Knowledge Vault : A Web-Scale Approach to Probabilistic Knowledge Fusion}},
 year = {2014}
 }
-@article{Dong,
-author = {Dong, Xin Luna and Gabrilovich, Evgeniy and Heitz, Geremy and Horn, Wilko and Murphy, Kevin and Sun, Shaohua and Zhang, Wei},
-pages = {881--892},
-title = {{From Data Fusion to Knowledge Fusion}}
+
+@article{Dong2014FromDF,
+  title={From Data Fusion to Knowledge Fusion},
+  author={Xin Dong and Evgeniy Gabrilovich and Geremy Heitz and Wilko Horn and Kevin Murphy and Shaohua Sun and Wei Zhang},
+  journal={PVLDB},
+  year={2014},
+  volume={7},
+  pages={881-892}
 }
 @article{West2014,
 author = {West, Robert and Gabrilovich, Evgeniy and Murphy, Kevin and Sun, Shaohua and Gupta, Rahul and Lin, Dekang},
@@ -342,7 +464,7 @@ year = {2014}
 @inproceedings{Dumontier:2014:BRL:2878453.2878554,
  author = {Dumontier, Michel and Callahan, Alison and Cruz-Toledo, Jose and Ansell, Peter and Emonet, Vincent and Belleau, Fran\c{c}ois and Droit, Arnaud},
  title = {Bio2RDF Release 3: A Larger Connected Network of Linked Data for the Life Sciences},
- booktitle = {Proceedings of the 2014 International Conference on Posters \&\#38; Demonstrations Track - Volume 1272},
+ booktitle = {Proceedings of the 2014 International Conference on Posters; Demonstrations Track - Volume 1272},
  series = {ISWC-PD'14},
  year = {2014},
  location = {Riva del Garda, Italy},
@@ -440,23 +562,6 @@ url = {http://www.cs.cmu.edu/{~}nlao/doc/ecml2012.pdf},
 year = {2015}
 }
 
-@inproceedings{Bollacker:2008:FCC:1376616.1376746,
- author = {Bollacker, Kurt and Evans, Colin and Paritosh, Praveen and Sturge, Tim and Taylor, Jamie},
- title = {Freebase: A Collaboratively Created Graph Database for Structuring Human Knowledge},
- booktitle = {Proceedings of the 2008 ACM SIGMOD International Conference on Management of Data},
- series = {SIGMOD '08},
- year = {2008},
- isbn = {978-1-60558-102-6},
- location = {Vancouver, Canada},
- pages = {1247--1250},
- numpages = {4},
- url = {http://doi.acm.org/10.1145/1376616.1376746},
- doi = {10.1145/1376616.1376746},
- acmid = {1376746},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {collaborative systems, semantic network, tuple store},
-}
 @article{Bizer:2009:DCP:1640541.1640848,
  author = {Bizer, Christian and Lehmann, Jens and Kobilarov, Georgi and Auer, S\"{o}ren and Becker, Christian and Cyganiak, Richard and Hellmann, Sebastian},
  title = {DBpedia - A Crystallization Point for the Web of Data},

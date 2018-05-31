@@ -1,5 +1,5 @@
 % !Mode:: "TeX:UTF-8"
-\documentclass[master]{bnuthesis}
+\documentclass[master,arialtitle]{bnuthesis}
 % \documentclass[%
 %   bachelor|master|doctor, % mandatory option
 %   xetex|pdftex|dvips|dvipdfm, % optional
@@ -10,6 +10,7 @@
 % 所有其它可能用到的包都统一放在这里，可以根据实际需要添加或者删除。
 \usepackage{bnutils}
 \usepackage[table]{xcolor}
+
 % 你可以在这里修改配置文件中的定义，导言区可以使用中文。
 % \def\myname{薛瑞尼}
 
@@ -34,21 +35,22 @@
 
 %%% 正文部分
 \mainmatter
-\include{data/chap1}
-\include{data/chap2}
-\include{data/chap02}
-\include{data/chap021}
-\include{data/chap022}
-\include{data/chap3}
-
+\include{data/chap-intro}
+\include{data/chap-relatedwork}
+%\include{data/chap2}
+%\include{data/chap-frame}
+\include{data/chap-feature}
+\include{data/chap-rank}
+%\include{data/chap3}
+\include{data/chap-summary}
 
 %%% 其它部分
-%\backmatter
+\backmatter
 
 %
 % % 参考文献
- \bibliographystyle{bnubib}
- \bibliography{ref/refs}
+\bibliographystyle{bnubib}
+\bibliography{ref/refs}
 
 % 附录
 %\begin{appendix}
@@ -56,7 +58,7 @@
 %\end{appendix}
 %
 % % 学术成果
-% \include{data/paper}
+\include{data/paper}
 
 % 致谢
 \include{data/ack}

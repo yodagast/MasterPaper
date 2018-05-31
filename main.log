@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  25 MAY 2018 11:29
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.3)  31 MAY 2018 12:14
 entering extended mode
-**main.tex
-(E:\研究生毕业论文\masterPaper\main.tex
+**E:/研究生毕业论文/masterPaper/main.tex
+(E:/研究生毕业论文/masterPaper/main.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for loaded.
 (E:\研究生毕业论文\masterPaper\bnuthesis.cls
@@ -1195,13 +1195,13 @@ LaTeX Warning: File c7063.cmap not found on input line 24.
 LaTeX Warning: File c707e.cmap not found on input line 24.
 
 
-LaTeX Warning: File c7067.cmap not found on input line 24.
+LaTeX Warning: File c7079.cmap not found on input line 24.
 
 
 LaTeX Warning: File c7053.cmap not found on input line 24.
 
 
-LaTeX Warning: File c7079.cmap not found on input line 24.
+LaTeX Warning: File c7067.cmap not found on input line 24.
 
 
 LaTeX Warning: File c708f.cmap not found on input line 24.
@@ -1363,6 +1363,9 @@ LaTeX Warning: File c709a.cmap not found on input line 24.
 
 LaTeX Warning: File c7070.cmap not found on input line 24.
 
+
+LaTeX Warning: File c706e.cmap not found on input line 24.
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.I}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -1402,80 +1405,84 @@ LaTeX Warning: File c708c.cmap not found on input line 43.
 \tf@toc=\write4
  [4] (E:\研究生毕业论文\masterPaper\data/chap-intro.tex
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 13.34981pt on input line 11.
+(Font)              scaled to size 13.34981pt on input line 10.
 
 
-LaTeX Warning: File c7055.cmap not found on input line 17.
+LaTeX Warning: File c7055.cmap not found on input line 16.
 
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 22.
 (D:\CTEX\MiKTeX\tex\latex\txfonts\omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <8.43146> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <9.03374> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 22.
 
 
-LaTeX Warning: File c7087.cmap not found on input line 25.
+LaTeX Warning: File c7087.cmap not found on input line 24.
 
 
-LaTeX Warning: File c7082.cmap not found on input line 25.
+LaTeX Warning: File c7082.cmap not found on input line 24.
 
 
-LaTeX Warning: File c709c.cmap not found on input line 32.
+LaTeX Warning: File c709c.cmap not found on input line 31.
 
 
-LaTeX Warning: File c706f.cmap not found on input line 32.
+LaTeX Warning: File c706f.cmap not found on input line 31.
 
 
-LaTeX Warning: File c7085.cmap not found on input line 32.
+LaTeX Warning: File c7085.cmap not found on input line 31.
 
 [1
 
 
 
 
-] <figures/kb.PNG, id=493, 379.91937pt x 297.61188pt>
+] <figures/kb.PNG, id=495, 398.99063pt x 299.1175pt>
 File: figures/kb.PNG Graphic file (type png)
  <use figures/kb.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [2 <E:/研究生毕业论文/masterPaper/figures/kb.PNG>]
 LaTeX Font Info:    Font shape `OT1/txss/m/n' will be
-(Font)              scaled to size 12.39626pt on input line 45.
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 51
+(Font)              scaled to size 12.39626pt on input line 44.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 50
 .
 
-Overfull \hbox (35.0623pt too wide) in paragraph at lines 51--101
+Overfull \hbox (35.0623pt too wide) in paragraph at lines 50--100
  [][][] 
  []
 
 
-LaTeX Warning: File c7094.cmap not found on input line 105.
+LaTeX Warning: File c7094.cmap not found on input line 104.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
+
+LaTeX Warning: File ot157.cmap not found on input line 123.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
 
-LaTeX Warning: File c7099.cmap not found on input line 128.
+LaTeX Warning: File c7099.cmap not found on input line 127.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 
-LaTeX Warning: File c7092.cmap not found on input line 205.
+LaTeX Warning: File c7092.cmap not found on input line 204.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
-<figures/intro.PNG, id=535, 227.34938pt x 213.79875pt>
+<figures/intro.PNG, id=538, 227.34938pt x 213.79875pt>
 File: figures/intro.PNG Graphic file (type png)
  <use figures/intro.PNG>
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1506,10 +1513,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-
-LaTeX Warning: File c706e.cmap not found on input line 101.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12]
@@ -1593,223 +1596,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26]
-! Undefined control sequence.
-l.246 ...} & \multicolumn{1}{l|}{transE} \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.248 ....3\% & 71.6\% & 18.0\% & 36.0\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.250 ....8\% & 53.6\% & 41.6\% & 42.4\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.252 ....2\% & 87.9\% & 27.3\% & 37.7\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.254 ....9\% & 59.0\% & 26.4\% & 41.3\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.256 ....2\% & 62.1\% & 41.9\% & 65.2\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.258 ....7\% & 95.7\% & 71.8\% & 92.5\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.260 ....8\% & 95.8\% & 37.5\% & 41.6\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.262 ....9\% & 65.8\% & 55.1\% & 41.8\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.264 ....7\% & 62.4\% & 29.7\% & 64.1\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.266 ....8\% & 54.8\% & 46.0\% & 57.8\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.268 ...0\% & 100.0\% & 43.1\% & 34.3\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.270 ....0\% & 98.1\% & 78.8\% & 89.8\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.272 ....5\% & 79.6\% & 44.2\% & 70.6\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.274 ....3\% & 64.6\% & 60.7\% & 54.3\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.276 ....1\% & 78.0\% & 25.3\% & 48.5\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.278 ....1\% & 94.2\% & 85.4\% & 63.8\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.280 ....8\% & 87.6\% & 88.0\% & 69.3\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.282 ....3\% & 74.8\% & 32.0\% & 50.1\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.284 ...0\% & 100.0\% & 16.9\% & 44.2\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.286 ....1\% & 64.3\% & 35.3\% & 60.1\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.288 ....7\% & 99.6\% & 79.6\% & 91.2\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.290 ....2\% & 94.4\% & 54.1\% & 63.5\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.292 ....8\% & 35.1\% & 30.2\% & 36.8\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [27]
@@ -1869,43 +1655,6 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [38]
-! Undefined control sequence.
-l.131 ...    & \multicolumn{4}{c|}{1:10} \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.133 ...SFE} & \multicolumn{1}{l|}{PRA} \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.135 ...% & 46.91\% & 30.83\% & 31.27\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.137 ...% & 89.62\% & 90.48\% & 92.14\% \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39]
@@ -1919,142 +1668,6 @@ Underfull \vbox (badness 1546) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [40 <E:/研究生毕业论文/masterPaper/figures/many2many.PNG>]
-! Undefined control sequence.
-l.211 ...4} & \multicolumn{1}{l|}{PRA-4} \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.213 ...  & 76.9\%  & 74.5\%  & 69.4\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.215 ...  & 55.7\%  & 42.3\%  & 40.7\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.217 ...  & 91.3\%  & 82.3\%  & 82.2\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.219 ...  & 66.9\%  & 46.3\%  & 39.8\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.221 ...  & 95.8\%  & 91.6\%  & 91.6\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.223 ...  & 78.1\%  & 69.0\%  & 75.0\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.225 ...  & 83.9\%  & 65.0\%  & 63.4\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.227 ...  & 69.3\%  & 38.2\%  & 35.9\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.229 ...  & 84.9\%  & 71.7\%  & 79.0\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.231 ...  & 94.9\%  & 86.1\%  & 85.6\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.233 ...  & 87.5\%  & 81.1\%  & 78.8\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.235 ...  & 78.9\%  & 67.2\%  & 68.9\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.237 ...  & 95.6\%  & 85.4\%  & 84.0\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.239 ...  & 46.5\%  & 42.7\%  & 38.4\%  \bigstrut
-                                                  \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [41])
@@ -2078,43 +1691,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
+
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [47]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [48]
-! Undefined control sequence.
-l.298 ... ontological knowledge bases with AMIE \+
-                                                  [J].
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-)
+ [48])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [49]
-(E:\研究生毕业论文\masterPaper\data/paper.tex
-! Misplaced alignment tab character &.
-l.7 ...dding for Entity Linking. JIST (Workshops &
-                                                   Posters) 2016: 70-73
-I can't figure out why you would want to use a tab mark
-here. If you just want an ampersand, the remedy is
-simple: Just type `I\&' now. But if some right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-) [50
+(E:\研究生毕业论文\masterPaper\data/paper.tex) [50
 
 
 
 
-] (E:\研究生毕业论文\masterPaper\data/ack.tex
+]
+(E:\研究生毕业论文\masterPaper\data/ack.tex
 
 LaTeX Warning: File c708e.cmap not found on input line 8.
 
@@ -2145,42 +1739,42 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 15975 strings out of 495362
- 222646 string characters out of 3184024
- 321999 words of memory out of 3000000
- 17850 multiletter control sequences out of 15000+200000
+ 15989 strings out of 495362
+ 222911 string characters out of 3184024
+ 322151 words of memory out of 3000000
+ 17857 multiletter control sequences out of 15000+200000
  152681 words of font info for 446 fonts, out of 3000000 for 9000
  15 hyphenation exceptions out of 8191
- 51i,15n,44p,1775b,2149s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,15n,44p,1805b,2149s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>
 <C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
 hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
 onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chine
 se/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf>{D:/CTEX/MiKTeX/f
-onts/enc/dvips/fontname/8r.enc}<C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts
-/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/t
-ruetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/
-CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
-ndows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Wind
-ows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
+onts/enc/dvips/fontname/8r.enc}<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
+imhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/t
+ruetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/
+Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truet
+ype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetyp
+e/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/C
 TeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/sims
 un.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/true
 type/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTE
-X/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/s
-imsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
+X/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windo
+ws/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><
+C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simh
+ei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fo
+nts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wi
+ndows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.tt
+f><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/s
+imhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows
 /Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:
 /Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei
-.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Font
-s/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Wind
-ows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
-hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
-onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
-indows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.t
-tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><C:/Windows/Fonts/simhei.ttf
-><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
-mhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/
-Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
+.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
+tf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/
+simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Window
+s/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><D:/CTEX/CTeX/fonts/truetype/ch
+inese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/
 fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.t
 tf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype
 /chinese/simsun.ttf><D:/CTEX/CTeX/fonts/truetype/chinese/simsun.ttf><D:/CTEX/CT
@@ -2230,7 +1824,7 @@ blic/txfonts/txsy.pfb><D:/CTEX/MiKTeX/fonts/type1/public/txfonts/txsyc.pfb><D:/
 CTEX/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw
 /times/utmb8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><D:/CTEX/MiK
 TeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (57 pages, 1053851 bytes).
+Output written on main.pdf (57 pages, 1054633 bytes).
 PDF statistics:
  1460 PDF objects out of 1728 (max. 8388607)
  234 named destinations out of 1000 (max. 500000)
