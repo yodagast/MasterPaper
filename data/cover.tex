@@ -24,16 +24,14 @@
 
 % 定义中英文摘要和关键字
 \begin{cabstract}
-知识库通常从非结构化、半结构化的数据中抽取事实，构建结构化的知识，常用三元组进行存储表示。知识库在信息检索、问答系统和人工智能等不同领域具有重要作用，尽管有很多大规模知识库如Freebase、YAGO包含大量三元组，但这些知识库中的三元组是不完备的，很多实体对之间的关系存在缺失，从而预测知识库中实体和实体之间的关系变得十分重要。当前一种重要的知识库补全算法是基于符号逻辑的\textbf{路径排序算法}。路径排序算法抽取
-实体之间的\textbf{关系路径特征}，构建逻辑回归分类模型，对知识库中实体和实体之间关系进行预测。
+知识库通常从非结构化、半结构化的数据中抽取事实，构建结构化的知识，常用三元组进行存储表示。知识库在信息检索、问答系统等领域具有重要作用，尽管一些知识库如Freebase、YAGO包含大量三元组，但这些知识库中的三元组是不完备的，很多实体对的关系存在缺失，预测知识库中实体对之间的关系变得十分重要。当前一种重要的知识库补全算法是基于符号逻辑的\textbf{路径排序算法}。路径排序算法抽取实体之间的\textbf{关系路径特征}，构建逻辑回归分类模型，对知识库中实体和实体之间关系进行预测。
 
-路径排序算法基于关系路径进行知识库补全，并没有考虑实体属性特征，如何结合关系路径特征和实体属性，如何构建更丰富有效的特征类型，优化知识库补全的目标函数，训练获得有效的模型，仍然是知识库补全的重要任务。
-本论文的研究在传统的关系路径特征基础上，提出了一种新的结合关系路径特征和\textbf{实体属性特征}的知识库补全模型，并将不同类型的关系路径特征、头实体属性、尾实体属性特征进行组合，显著提升了知识库补全效果。
-考虑到知识库补全中正负例不平衡问题，为了更好的进行模型优化和训练学习，在传统逻辑回归模型的基础上，本研究构建基于\textbf{学习排序模型}的知识库补全算法，通过训练学习排序模型的损失函数，优化正负实体对的排序，从而提高知识库补全模型效果。本论文的研究创新点包括以下三点：
+% 本研究基于路径排序算法，路径排序算法基于关系路径进行知识库补全，并没有考虑实体属性特征，如何结合关系路径特征和实体属性，如何构建更丰富有效的特征类型，优化知识库补全的目标函数，训练获得有效的模型，仍然是知识库补全的重要任务。 
+本论文的研究在传统的关系路径特征基础上，提出了一种新的结合关系路径特征和\textbf{实体属性特征}的知识库补全模型，并将不同类型的关系路径特征、头实体属性、尾实体属性特征进行组合，显著提升了知识库补全效果。为了更好的进行特征工程和模型优化，在传统逻辑回归模型的基础上，本研究构建基于\textbf{学习排序模型}的知识库补全算法，通过训练学习排序模型的损失函数，优化正负实体对的排序，从而提高知识库补全模型效果。本论文的研究创新点包括以下三点：
 \begin{itemize}[$\bullet$]
-    \item 抽取关系路径特征和实体属性特征作为知识库补全的特征，基于随机游走抽取关系路径特征，结合头实体属性、尾实体属性特征，将多种不同类型特征进行组合，极大拓展了知识库补全系统的维度，增强了知识库补全效果。
-    \item 基于学习排序算法预测知识库补全中实体和实体的关系，通过优化排序模型损失函数，直接学习知识库补全中的实体对排序顺序，改进目标函数进行模型预测。
-    \item 构建基于逻辑回归、学习排序树模型方法的知识库补全模型，通过不同比例的正负候选实体对生成，深入研究了学习排序对知识库补全的影响，并显著提升了模型的预测效果，改进多对多关系模型预测排序结果。
+    \item 抽取关系路径特征和实体属性特征作为知识库补全的特征。通过结合基于随机游走抽取关系路径特征、头实体属性特征、尾实体属性特征、头尾比较实体属性特征，将多种不同类型特征进行组合，构建逻辑回归预测模型，从特征工程方面极大拓展了知识库补全系统的维度，增强了知识库补全效果。
+    \item 基于学习排序算法预测知识库补全中实体和实体的关系，通过优化排序模型损失函数，直接学习知识库补全中的实体对排序顺序，改进目标函数进行模型预测。将路径排序中的分类损失函数进行优化，改进为排序损失函数，改进排序的目标函数从而使得知识库补全预测效果更好。
+    \item 构建基于逻辑回归、学习排序树模型方法的知识库补全模型，通过不同比例的正负候选实体对生成，深入研究了学习排序对知识库补全的影响。通过研究不同正负比例的实体对排序模型，结合树模型进行优化，显著提升了模型的预测效果，改进多对多关系模型预测排序结果。
 \end{itemize}
 \end{cabstract}
 
@@ -45,10 +43,12 @@ from the existing ones in KBs. There are many KB completion approaches,
 one of the state-of-art approaches is Path Ranking Algorithm
 (PRA), which predicts new facts based on relational path types connecting entities.
 PRA takes the relation prediction as a classification problem, and
-logistic regression or SVM is used as the classification model. In this paper, our model
+logistic regression or SVM is used as the classification model. 
+
+In this paper, our model
 use both literal facts and relational path types as feature matrix, which is much more comprehensive and complicated. We
 consider the relation prediction as a ranking problem, learning to rank
-model is trained on relations to predict new facts. Besides. We propose to extract literal features from literal facts, and incorporate them with path-based
+model is trained on relations to predict new facts. Besides, we propose to extract literal features from literal facts, and incorporate them with path-based
 features extracted from relational facts; predictive
 model is then trained to infer new
 facts with assembly features and bring higher precision scores in classification metrics and ranking metrics. Experiments on YAGO show that our proposed approach outperforms approaches using relational path features and classification models.
